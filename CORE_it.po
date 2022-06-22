@@ -1,0 +1,1871 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/core/routing/default-routes.tsx:176
+msgid "/bet"
+msgstr "/scommessa"
+
+#: src/core/routing/default-routes.tsx:211
+msgid "/bet-builder-rules"
+msgstr "/regole-bet-builder"
+
+#: src/core/routing/default-routes.tsx:159
+msgid "/betslip"
+msgstr "/schedina"
+
+#: src/core/routing/default-routes.tsx:169
+msgid "/betting-history"
+msgstr "/cronologia-scommesse"
+
+#: src/core/routing/default-routes.tsx:183
+msgid "/betting-rules"
+msgstr "/regole-gioco"
+
+#: src/core/routing/default-routes.tsx:204
+msgid "/cashout-terms"
+msgstr "/termini-cashout"
+
+#: src/core/routing/default-routes.tsx:103
+msgid "/category"
+msgstr "/categoria"
+
+#: src/core/routing/default-routes.tsx:325
+msgid "/coupon"
+msgstr ""
+
+#: src/core/routing/default-routes.tsx:110
+msgid "/discipline"
+msgstr "/disciplina"
+
+#: src/core/routing/default-routes.tsx:246
+#: src/core/routing/default-routes.tsx:253
+#: src/core/routing/default-routes.tsx:260
+#: src/core/routing/default-routes.tsx:267
+#: src/core/routing/default-routes.tsx:274
+#: src/core/routing/default-routes.tsx:281
+#: src/core/routing/default-routes.tsx:288
+#: src/core/routing/default-routes.tsx:295
+#: src/core/routing/default-routes.tsx:302
+msgid "/esports"
+msgstr "/esport"
+
+#: src/core/routing/default-routes.tsx:190
+msgid "/esports-betting-rules"
+msgstr "/regole-esport"
+
+#: src/core/routing/default-routes.tsx:138
+#: src/core/routing/default-routes.tsx:288
+msgid "/event"
+msgstr "/evento"
+
+#: src/core/routing/default-routes.tsx:332
+msgid "/event-results"
+msgstr "/risultati-evento"
+
+#: src/core/routing/default-routes.tsx:152
+#: src/core/routing/default-routes.tsx:274
+msgid "/favorites"
+msgstr "/preferiti"
+
+#: src/core/routing/default-routes.tsx:339
+msgid "/live-calendar"
+msgstr ""
+
+#: src/core/routing/default-routes.tsx:145
+#: src/core/routing/default-routes.tsx:295
+msgid "/live-event"
+msgstr "/evento-live"
+
+#: src/core/routing/default-routes.tsx:235
+msgid "/live-search"
+msgstr "/ricerca-live"
+
+#: src/core/routing/default-routes.tsx:89
+msgid "/live-sports"
+msgstr "/sport-live"
+
+#: src/core/routing/default-routes.tsx:96
+msgid "/location"
+msgstr "/localitá"
+
+#: src/core/routing/default-routes.tsx:253
+#: src/core/routing/default-routes.tsx:75
+msgid "/next-events"
+msgstr "/prossimi-eventi"
+
+#: src/core/routing/default-routes.tsx:260
+#: src/core/routing/default-routes.tsx:82
+msgid "/popular-events"
+msgstr "/eventi-popolari"
+
+#: src/core/routing/default-routes.tsx:225
+#: src/core/routing/default-routes.tsx:281
+msgid "/search"
+msgstr "/ricerca"
+
+#: src/core/routing/default-routes.tsx:218
+msgid "/settings"
+msgstr "/impostazioni"
+
+#: src/core/routing/default-routes.tsx:310
+msgid "/shared-bet"
+msgstr "/scommessa-confivisa"
+
+#: src/core/routing/default-routes.tsx:103
+#: src/core/routing/default-routes.tsx:110
+#: src/core/routing/default-routes.tsx:267
+#: src/core/routing/default-routes.tsx:96
+msgid "/sport"
+msgstr "/sport"
+
+#: src/core/routing/default-routes.tsx:131
+#: src/core/routing/default-routes.tsx:302
+msgid "/tournament"
+msgstr "/torneo"
+
+#: src/core/routing/default-routes.tsx:124
+msgid "/tournament-category"
+msgstr "/categoria-torneo"
+
+#: src/core/routing/default-routes.tsx:117
+msgid "/tournament-location"
+msgstr "/località-torneo"
+
+#: src/core/routing/default-routes.tsx:197
+msgid "/virtual-esports-betting-rules"
+msgstr "/regole-virtual-esport"
+
+#: src/pages/theme1/dev-page.tsx:910
+msgid "%(clickHere) to adjust your stake"
+msgstr "%(clickHere) per correggere la puntata"
+
+#: src/pages/theme1/dev-page.tsx:904 src/pages/theme1/dev-page.tsx:906
+msgid "%(count) More Location+"
+msgid_plural "%(count) More Locations+"
+msgstr[0] "%(count) Più Località+"
+msgstr[1] "%(count) Più Località+"
+
+#: src/components/menu/menu-item-overview.tsx:24
+msgid "%(name) overview"
+msgstr "%(name) panoramica"
+
+#: src/components/tournament-list/tournament-list-title.tsx:30
+msgid "%(name) Tournaments"
+msgstr "%(name) Tornei"
+
+#: src/components/range-slider/range-details.tsx:35
+#: src/components/range-slider/range.tsx:103
+msgid "%(step) h"
+msgstr "%(step) ore"
+
+#: src/components/range-slider/range-details.tsx:40
+#: src/components/range-slider/range.tsx:108
+msgid "%(step) hour"
+msgid_plural "%(step) hours"
+msgstr[0] "%(step) ore"
+msgstr[1] "%(step) ore"
+
+#: src/pages/theme1/live-calendar-page.tsx:60
+msgid ""
+"%disciplineName%, %date%, Feature events for %disciplineName%, Events for "
+"%disciplineName% on %date%"
+msgstr ""
+
+#: src/components/settings/settings.tsx:194
+msgid "Accept any"
+msgstr "AAccetta Tutto"
+
+#: src/components/settings/settings.tsx:203
+msgid "Accept higher"
+msgstr "Accetta maggiore"
+
+#: src/components/settings/settings.tsx:212
+msgid "Accept lower"
+msgstr "Accatta minore"
+
+#: src/components/settings/settings.tsx:221
+msgid "Accept none"
+msgstr "Non accettare"
+
+#: src/components/settings/settings.tsx:189
+msgid "Accept odds type"
+msgstr "Accetta il tipo di quota"
+
+#: src/components/coupon-content/coupon-tournament-item.tsx:42
+#: src/components/coupon-content/coupon-tournament-item.tsx:48
+#: src/components/discipline-anchor/discipline-anchor.utils.ts:46
+#: src/components/discipline-anchor/discipline-anchor.utils.ts:55
+#: src/components/discipline-anchor/discipline-anchor.utils.ts:65
+#: src/components/discipline-anchor/discipline-anchor.utils.ts:75
+#: src/components/market-groups/market-groups.tsx:93
+#: src/components/nav-secondary/category-nav/category-nav-item.tsx:55
+#: src/components/nav-secondary/location-nav/location-nav-item.tsx:74
+#: src/components/nav-secondary/location-nav/location-nav-item.tsx:75
+#: src/components/nav-secondary/parent-nav/parent-nav-item.tsx:57
+#: src/components/tournament-list/tournament-list.tsx:78
+#: src/pages/theme1/esports-page.tsx:41 src/pages/theme1/event-page.tsx:129
+#: src/pages/theme1/event-page.tsx:209
+#: src/pages/theme1/live-sports-page.tsx:117
+#: src/pages/theme1/parts/live-event-content.tsx:146
+#: src/pages/theme1/parts/live-event-content.tsx:226
+msgid "All"
+msgstr "Tutto"
+
+#: src/components/grouped-match-list/grouped-match-list.tsx:286
+#: src/utils/active-tab.ts:25
+msgid "all leagues"
+msgstr ""
+
+#: src/pages/theme1/parts/left-side-bar.tsx:71
+msgid "All sports"
+msgstr "Tutti sport"
+
+#: src/pages/theme1/parts/esports-betting-rules-breadcrumbs.tsx:23
+msgid "Back to All Betting Rules"
+msgstr "Torna a Tutte le regole delle scommesse"
+
+#: src/components/match-time/match-time.tsx:145
+msgid "Best of %(numberOfEventParts)"
+msgstr "Migliore del %(numberOfEventParts)"
+
+#: src/pages/theme1/parts/help-support-links.tsx:50
+#: src/pages/theme1/parts/info-pages-nav.tsx:32
+msgid "Bet Builder Rules"
+msgstr "Regole Bet Builder"
+
+#: src/components/betting-history/betting-history-bet.tsx:164
+#: src/components/betting-history/betting-history-bet.tsx:231
+#: src/pages/theme1/bet-details-page.tsx:26
+msgid "Bet details"
+msgstr "Dettagli scommessa"
+
+#: src/components/bet/bet-details.tsx:248
+msgid "Bet id"
+msgstr "Id Scommessa"
+
+#: src/components/bet/bet-details.tsx:254
+msgid "Bet placed"
+msgstr "Scommessa piazzata"
+
+#: src/components/bet/bet-details.tsx:263
+msgid "Bet status"
+msgstr "Stato della scommessa"
+
+#: src/components/bet/bet-details.tsx:267
+msgid "Bet type"
+msgstr "Tipo di scommessa"
+
+#: src/components/betting-area/betting-area.tsx:442
+#: src/pages/theme1/bet-slip.tsx:20
+msgid "Betslip"
+msgstr "Schedina"
+
+#: src/pages/theme1/betting-history-page.tsx:17
+msgid "Betting History"
+msgstr "Cronologia scommesse"
+
+#: src/pages/theme1/parts/help-support-links.tsx:30
+#: src/pages/theme1/parts/info-pages-nav.tsx:22
+msgid "Betting Rules"
+msgstr "Regole scommesse"
+
+#: src/pages/theme1/parts/live-sports-header.tsx:103
+msgid "Calendar"
+msgstr ""
+
+#: src/components/betting-history/cashout/cashout-confirm.tsx:78
+msgid "Cancel Cash Out"
+msgstr "Canella Cash Out"
+
+#: src/components/bet/bet-details.tsx:341
+#: src/components/betting-history/cashout/cashout-confirm.tsx:75
+#: src/pages/theme1/parts/help-support-links.tsx:40
+#: src/pages/theme1/parts/info-pages-nav.tsx:27
+msgid "Cash Out"
+msgstr "Cash Out"
+
+#: src/components/betting-history/cashout/cashout.tsx:76
+msgid "Cash Out %(value)"
+msgstr "Cash Out %(value)"
+
+#: src/components/betting-history/cashout/cashout-fail.tsx:54
+msgid "Cash Out failed"
+msgstr "Cash Out Fallito"
+
+#: src/components/betting-history/cashout/cashout-success.tsx:59
+msgid "Cash Out successful. %(value) added to your balance"
+msgstr "Cash Out accettato. %(value) aggiunto al saldo"
+
+#: src/components/betting-history/api/betting-history/betting-history.utils.ts:38
+msgid "Cashed Out"
+msgstr "Cashed Out"
+
+#: src/components/search/search-bar.tsx:193
+msgid "Clear"
+msgstr "Pulisci"
+
+#: src/pages/theme1/dev-page.tsx:915
+msgid "Click here"
+msgstr "Clicca Qui"
+
+#: src/components/video-tutorial/bet-builder-video-tutorial.tsx:57
+msgid "Click here to watch a video tutorial"
+msgstr "Clicca qui per vedere il video tutoria"
+
+#: src/components/betting-history/cashout/cashout-fail.tsx:60
+#: src/components/betting-history/cashout/cashout-success.tsx:73
+#: src/components/notification/notification.tsx:47
+#: src/components/shared-bet/shared-bet-buttons.tsx:102
+#: src/components/shared-bet/shared-bet.tsx:119
+#: src/components/video-tutorial/bet-builder-video-tutorial.tsx:71
+msgid "Close"
+msgstr "Chiudi"
+
+#: src/components/notification/connection-notification.tsx:42
+msgid "Connection Lost! Please check your internet connection."
+msgstr "Connessione Persa! Prego, controlla la tua connessione Internet."
+
+#: src/components/betting-history/betting-history-header.tsx:35
+msgid "Date"
+msgstr "Data"
+
+#: src/core/markets/header.ts:121
+msgid "Draw"
+msgstr "Pareggio"
+
+#: src/core/converters/odds.ts:196
+msgid "Draw excluding 0-0"
+msgstr "Pareggio escluso 0-0"
+
+#: src/components/settings/settings.tsx:163
+msgid "EU"
+msgstr "EU"
+
+#: src/components/betting-history/betting-history-header.tsx:34
+msgid "Event name"
+msgstr "Nome Evento"
+
+#: src/pages/theme1/parts/live-sports-header.tsx:80
+msgid "Event view"
+msgstr "Vista Evento"
+
+#: src/components/match-list/markets-headers/markets-header.tsx:22
+msgid "Events"
+msgstr "Eventi"
+
+#: src/components/range-slider/range-details.tsx:80
+msgid "Events start time"
+msgstr "Inizio eventi"
+
+#: src/components/shared-bet/shared-bet-buttons.tsx:94
+msgid "Exclude stake info"
+msgstr "Escludi le informazioni della puntata"
+
+#: src/pages/theme1/parts/left-side-bar.tsx:47
+#: src/pages/theme1/parts/top-menu.tsx:138
+msgid "Favorite Tournaments"
+msgstr "Preferiti Tornei"
+
+#: src/components/match-list/containers/favorite-match-list/favorite-match-list.tsx:81
+#: src/components/sports-nav/live-sports/sports-nav-live-sports.tsx:96
+msgid "Favorites"
+msgstr "Preferiti"
+
+#: src/pages/theme1/live-calendar-page.tsx:47
+msgid "Feature events, Events on %date%"
+msgstr ""
+
+#: src/components/betting-history/cashout/cashout-success.tsx:70
+msgid "Go to settled bets"
+msgstr "Vai a scommesse chiuse"
+
+#: src/components/event-item/event-item-v2.tsx:119
+#: src/components/event-item/match-info-details.tsx:123
+msgid "Has streaming video!"
+msgstr "Streaming disponibile!"
+
+#: src/components/betting-area/betting-area.tsx:466
+msgid "Help"
+msgstr "Aiuto"
+
+#: src/pages/theme1/parts/help-support-links.tsx:19
+msgid "Help & Support"
+msgstr "Aiuto & Supporto"
+
+#: src/components/breadcrumbs/breadcrumbs.tsx:39
+#: src/components/breadcrumbs/breadcrumbs.tsx:43
+msgid "Home"
+msgstr "Home"
+
+#: src/components/next-events-tile/next-events-tile.tsx:72
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] "Ora"
+msgstr[1] "Ore"
+
+#: src/components/shared-bet/shared-bet-buttons.tsx:86
+msgid "Include all bet info"
+msgstr "Includi tutti i dettagli della scommessa"
+
+#: src/components/match-details/match-details-delay-info.tsx:31
+msgid "Information and scoreboard delays"
+msgstr "Informazioni e tabellone in ritardo"
+
+#: src/components/bet/bet-details.tsx:381
+msgid "Invalid bet"
+msgstr "Scommessa non valida"
+
+#: src/components/event-item/match-info-details.tsx:68
+#: src/components/event-item/match-info-v2.tsx:95
+#: src/components/event-slider/event-slider-match-info.tsx:102
+#: src/components/match-details/match-details-header-default.tsx:99
+#: src/components/match-details/match-details-info-highlighted.tsx:115
+msgid "Left"
+msgstr "Rimasto"
+
+#: src/pages/theme1/parts/top-menu.tsx:99
+msgid "Links"
+msgstr "Links"
+
+#: src/pages/theme1/live-calendar-page.tsx:56
+msgid "List of all future events for %%sportName% on %date%"
+msgstr ""
+
+#: src/pages/theme1/live-calendar-page.tsx:46
+msgid "List of all future events on %date%"
+msgstr ""
+
+#: src/components/grouped-match-list/grouped-match-list.tsx:283
+#: src/components/live-upcoming-tabs/live-upcoming-tabs.tsx:131
+#: src/components/match-list-mixed/grouped-mixed-match-list/grouped-match-list-mixed.tsx:72
+#: src/components/site-links/site-links.tsx:25
+#: src/pages/theme1/parts/live-only-top-menu.tsx:33
+#: src/pages/theme1/parts/live-sports-header.tsx:72
+#: src/pages/theme1/parts/top-menu.tsx:91 src/utils/active-tab.ts:16
+msgid "live"
+msgstr "live"
+
+#: src/components/bet/bet-details-selection.tsx:126
+#: src/components/betting-history/bet-builder-header.tsx:27
+msgid "Live Bet"
+msgstr "Scommessa Live"
+
+#: src/components/site-links/site-links.tsx:65
+#: src/pages/theme1/parts/live-sports-header.tsx:103
+msgid "Live calendar"
+msgstr ""
+
+#: src/pages/theme1/live-calendar-page.tsx:52
+msgid "Live calendar for %sportName% on %date%"
+msgstr ""
+
+#: src/pages/theme1/live-calendar-page.tsx:45
+msgid "Live calendar on %date%"
+msgstr ""
+
+#: src/components/match-time/match-time.tsx:109
+msgid "Live now"
+msgstr "Live Ora"
+
+#: src/components/match-details/match-details-header-default.tsx:182
+#: src/components/match-details/match-details-header-default.tsx:184
+msgid "Live Score"
+msgstr "Punteggio Live"
+
+#: src/components/live-event/sidebar/sports-sidebar/live-event-sidebar.tsx:188
+#: src/components/search/search-modal.tsx:91
+#: src/core/routing/templates/classic/live-template.tsx:34
+#: src/pages/theme1/live-search-page.tsx:40
+#: src/pages/theme1/live-search-page.tsx:41
+#: src/pages/theme1/live-search-page.tsx:42
+#: src/pages/theme1/live-search-page.tsx:55
+#: src/pages/theme1/parts/live-only-top-menu.tsx:28
+#: src/pages/theme1/parts/live-sports-header.tsx:161
+msgid "Live Search"
+msgstr "Cerca Live"
+
+#: src/pages/theme1/parts/left-side-bar.tsx:55
+msgid "Live sports"
+msgstr "Sport Live"
+
+#: src/components/betting-history/betting-history.tsx:44
+msgid "Main page"
+msgstr "Pagina principale"
+
+#: src/components/betting-history/betting-history-header.tsx:33
+msgid "Market"
+msgstr "Mercato"
+
+#: src/components/match-details/match-details-info-highlighted.tsx:105
+msgid "Match details"
+msgstr "Dettagli incontro"
+
+#: src/components/match-details/match-details-header-default.tsx:92
+#: src/components/match-details/match-details-info-highlighted.tsx:76
+msgid "Match ended"
+msgstr "Incontro concluso"
+
+#: src/components/match-details/match-details-info-highlighted.tsx:123
+msgid "Match start time"
+msgstr "Ora inizio incontro"
+
+#: src/components/search/search.tsx:396
+msgid "Matches"
+msgstr "Incontri"
+
+#: src/components/bet/bet-details.tsx:178
+msgid "Multiple"
+msgstr "Multipla"
+
+#: src/components/betting-area/betting-area.tsx:456
+msgid "My Bets"
+msgstr "Le Mie Scommesse"
+
+#: src/components/bet/bet-details.tsx:249
+msgid "My placed bet"
+msgstr "Le Mie Scommesse piazzate"
+
+#: src/components/market-groups/market-groups.tsx:115
+msgid "New"
+msgstr "Nuovo"
+
+#: src/components/video-tutorial/bet-builder-video-tutorial.tsx:54
+msgid "New to BetBuilder? %(videoComponent) or %(readRulesComponent)"
+msgstr "Nuovo Bet Builder? %(videoComponent) o %(readRulesComponent)"
+
+#: src/pages/theme1/parts/live-sports-header.tsx:89
+msgid "Next"
+msgstr "Prossimo"
+
+#: src/components/site-links/site-links.tsx:35
+#: src/pages/theme1/next-events-page.tsx:20
+#: src/pages/theme1/parts/live-sports-header.tsx:89
+msgid "Next events"
+msgstr "Prossimo evento"
+
+#: src/core/markets/header.ts:71
+msgid "No"
+msgstr "No"
+
+#: src/components/sports-nav/sports-nav-base.tsx:76
+msgid "No disciplines currently available"
+msgstr "Non ci sono discipline al momento disponibili"
+
+#: src/components/market-groups/market-groups-item.tsx:150
+msgid "No markets currently available."
+msgstr "Non ci sono mercati al momento disponibili."
+
+#: src/components/match-list-mixed/match-list-mixed.tsx:140
+#: src/components/match-list/containers/favorite-match-list/favorite-match-list.tsx:101
+#: src/components/match-list/match-list.tsx:270
+msgid "No matches currently available"
+msgstr "Non ci sono incontri disponibli al momento"
+
+#: src/components/tournament-outrights/tournament-outrights.tsx:100
+msgid "No outrights currently available"
+msgstr "Nessun Outrights disponibile al momento"
+
+#: src/components/search/search.tsx:356
+msgid "No result"
+msgstr "Nessun risultato"
+
+#: src/components/tournament-list/tournament-list.tsx:109
+msgid "No tournaments currently available"
+msgstr "Non ci sono tornei al momento disponibili"
+
+#: src/core/markets/header.ts:66
+msgid "None"
+msgstr "Nessuno"
+
+#: src/components/range-slider/range-details.tsx:29
+#: src/components/range-slider/range.tsx:71
+#: src/components/range-slider/range.tsx:97
+msgid "Now"
+msgstr "Ora"
+
+#: src/components/betting-history/betting-history-header.tsx:32
+msgid "Odds"
+msgstr "Quote"
+
+#: src/components/settings/settings.tsx:158
+msgid "Odds format"
+msgstr "Formato Quote"
+
+#: src/components/bet/bet-details.tsx:164
+msgid "Open"
+msgstr "Aperto"
+
+#: src/components/betting-history/betting-history-status-header.tsx:29
+#: src/components/betting-history/betting-history-status-menu.tsx:49
+msgid "Open bets"
+msgstr "Scommesse Aperte"
+
+#: src/components/grouped-match-list/grouped-match-list.tsx:285
+#: src/utils/active-tab.ts:22
+msgid "outrights"
+msgstr "outrights"
+
+#: src/core/converters/odds.ts:129
+msgid "Over"
+msgstr "Più di"
+
+#: src/pages/theme1/404.tsx:16
+msgid "Page not found"
+msgstr "Pagino non trovata"
+
+#: src/pages/theme1/i18n-based-pages/betting-rules/DA/betting-rules-DA.tsx:1072
+#: src/pages/theme1/i18n-based-pages/betting-rules/DA/betting-rules-DA.tsx:1163
+#: src/pages/theme1/i18n-based-pages/betting-rules/DA/betting-rules-DA.tsx:1222
+#: src/pages/theme1/i18n-based-pages/betting-rules/DA/betting-rules-DA.tsx:1285
+#: src/pages/theme1/i18n-based-pages/betting-rules/DA/betting-rules-DA.tsx:129
+#: src/pages/theme1/i18n-based-pages/betting-rules/DA/betting-rules-DA.tsx:1465
+#: src/pages/theme1/i18n-based-pages/betting-rules/DA/betting-rules-DA.tsx:1524
+#: src/pages/theme1/i18n-based-pages/betting-rules/DA/betting-rules-DA.tsx:1547
+#: src/pages/theme1/i18n-based-pages/betting-rules/DA/betting-rules-DA.tsx:1571
+#: src/pages/theme1/i18n-based-pages/betting-rules/DA/betting-rules-DA.tsx:1614
+#: src/pages/theme1/i18n-based-pages/betting-rules/DA/betting-rules-DA.tsx:1641
+#: src/pages/theme1/i18n-based-pages/betting-rules/DA/betting-rules-DA.tsx:1684
+#: src/pages/theme1/i18n-based-pages/betting-rules/DA/betting-rules-DA.tsx:1707
+#: src/pages/theme1/i18n-based-pages/betting-rules/DA/betting-rules-DA.tsx:1746
+#: src/pages/theme1/i18n-based-pages/betting-rules/DA/betting-rules-DA.tsx:1773
+#: src/pages/theme1/i18n-based-pages/betting-rules/DA/betting-rules-DA.tsx:1796
+#: src/pages/theme1/i18n-based-pages/betting-rules/DA/betting-rules-DA.tsx:1827
+#: src/pages/theme1/i18n-based-pages/betting-rules/DA/betting-rules-DA.tsx:1854
+#: src/pages/theme1/i18n-based-pages/betting-rules/DA/betting-rules-DA.tsx:1905
+#: src/pages/theme1/i18n-based-pages/betting-rules/DA/betting-rules-DA.tsx:1948
+#: src/pages/theme1/i18n-based-pages/betting-rules/DA/betting-rules-DA.tsx:1995
+#: src/pages/theme1/i18n-based-pages/betting-rules/DA/betting-rules-DA.tsx:2018
+#: src/pages/theme1/i18n-based-pages/betting-rules/DA/betting-rules-DA.tsx:204
+#: src/pages/theme1/i18n-based-pages/betting-rules/DA/betting-rules-DA.tsx:2041
+#: src/pages/theme1/i18n-based-pages/betting-rules/DA/betting-rules-DA.tsx:2071
+#: src/pages/theme1/i18n-based-pages/betting-rules/DA/betting-rules-DA.tsx:2102
+#: src/pages/theme1/i18n-based-pages/betting-rules/DA/betting-rules-DA.tsx:2134
+#: src/pages/theme1/i18n-based-pages/betting-rules/DA/betting-rules-DA.tsx:23
+#: src/pages/theme1/i18n-based-pages/betting-rules/DA/betting-rules-DA.tsx:968
+#: src/pages/theme1/i18n-based-pages/betting-rules/DE/betting-rules-DE.tsx:1171
+#: src/pages/theme1/i18n-based-pages/betting-rules/DE/betting-rules-DE.tsx:1375
+#: src/pages/theme1/i18n-based-pages/betting-rules/DE/betting-rules-DE.tsx:1590
+#: src/pages/theme1/i18n-based-pages/betting-rules/DE/betting-rules-DE.tsx:1677
+#: src/pages/theme1/i18n-based-pages/betting-rules/DE/betting-rules-DE.tsx:1744
+#: src/pages/theme1/i18n-based-pages/betting-rules/DE/betting-rules-DE.tsx:186
+#: src/pages/theme1/i18n-based-pages/betting-rules/DE/betting-rules-DE.tsx:1874
+#: src/pages/theme1/i18n-based-pages/betting-rules/DE/betting-rules-DE.tsx:1990
+#: src/pages/theme1/i18n-based-pages/betting-rules/DE/betting-rules-DE.tsx:2186
+#: src/pages/theme1/i18n-based-pages/betting-rules/DE/betting-rules-DE.tsx:2242
+#: src/pages/theme1/i18n-based-pages/betting-rules/DE/betting-rules-DE.tsx:2281
+#: src/pages/theme1/i18n-based-pages/betting-rules/DE/betting-rules-DE.tsx:23
+#: src/pages/theme1/i18n-based-pages/betting-rules/DE/betting-rules-DE.tsx:2305
+#: src/pages/theme1/i18n-based-pages/betting-rules/DE/betting-rules-DE.tsx:2348
+#: src/pages/theme1/i18n-based-pages/betting-rules/DE/betting-rules-DE.tsx:2375
+#: src/pages/theme1/i18n-based-pages/betting-rules/DE/betting-rules-DE.tsx:2418
+#: src/pages/theme1/i18n-based-pages/betting-rules/DE/betting-rules-DE.tsx:2441
+#: src/pages/theme1/i18n-based-pages/betting-rules/DE/betting-rules-DE.tsx:2480
+#: src/pages/theme1/i18n-based-pages/betting-rules/DE/betting-rules-DE.tsx:2507
+#: src/pages/theme1/i18n-based-pages/betting-rules/DE/betting-rules-DE.tsx:2526
+#: src/pages/theme1/i18n-based-pages/betting-rules/DE/betting-rules-DE.tsx:2558
+#: src/pages/theme1/i18n-based-pages/betting-rules/DE/betting-rules-DE.tsx:2601
+#: src/pages/theme1/i18n-based-pages/betting-rules/DE/betting-rules-DE.tsx:2953
+#: src/pages/theme1/i18n-based-pages/betting-rules/DE/betting-rules-DE.tsx:2996
+#: src/pages/theme1/i18n-based-pages/betting-rules/DE/betting-rules-DE.tsx:3047
+#: src/pages/theme1/i18n-based-pages/betting-rules/DE/betting-rules-DE.tsx:3069
+#: src/pages/theme1/i18n-based-pages/betting-rules/DE/betting-rules-DE.tsx:3190
+#: src/pages/theme1/i18n-based-pages/betting-rules/DE/betting-rules-DE.tsx:322
+#: src/pages/theme1/i18n-based-pages/betting-rules/DE/betting-rules-DE.tsx:3237
+#: src/pages/theme1/i18n-based-pages/betting-rules/DE/betting-rules-DE.tsx:3260
+#: src/pages/theme1/i18n-based-pages/betting-rules/DE/betting-rules-DE.tsx:3283
+#: src/pages/theme1/i18n-based-pages/betting-rules/DE/betting-rules-DE.tsx:3322
+#: src/pages/theme1/i18n-based-pages/betting-rules/DE/betting-rules-DE.tsx:3353
+#: src/pages/theme1/i18n-based-pages/betting-rules/DE/betting-rules-DE.tsx:3384
+#: src/pages/theme1/i18n-based-pages/betting-rules/DE/betting-rules-DE.tsx:3435
+#: src/pages/theme1/i18n-based-pages/betting-rules/DE/betting-rules-DE.tsx:3460
+#: src/pages/theme1/i18n-based-pages/betting-rules/EN/betting-rules-EN.tsx:1105
+#: src/pages/theme1/i18n-based-pages/betting-rules/EN/betting-rules-EN.tsx:1791
+#: src/pages/theme1/i18n-based-pages/betting-rules/EN/betting-rules-EN.tsx:1979
+#: src/pages/theme1/i18n-based-pages/betting-rules/EN/betting-rules-EN.tsx:200
+#: src/pages/theme1/i18n-based-pages/betting-rules/EN/betting-rules-EN.tsx:2186
+#: src/pages/theme1/i18n-based-pages/betting-rules/EN/betting-rules-EN.tsx:2273
+#: src/pages/theme1/i18n-based-pages/betting-rules/EN/betting-rules-EN.tsx:23
+#: src/pages/theme1/i18n-based-pages/betting-rules/EN/betting-rules-EN.tsx:2340
+#: src/pages/theme1/i18n-based-pages/betting-rules/EN/betting-rules-EN.tsx:2466
+#: src/pages/theme1/i18n-based-pages/betting-rules/EN/betting-rules-EN.tsx:2582
+#: src/pages/theme1/i18n-based-pages/betting-rules/EN/betting-rules-EN.tsx:2786
+#: src/pages/theme1/i18n-based-pages/betting-rules/EN/betting-rules-EN.tsx:2843
+#: src/pages/theme1/i18n-based-pages/betting-rules/EN/betting-rules-EN.tsx:2882
+#: src/pages/theme1/i18n-based-pages/betting-rules/EN/betting-rules-EN.tsx:2906
+#: src/pages/theme1/i18n-based-pages/betting-rules/EN/betting-rules-EN.tsx:2949
+#: src/pages/theme1/i18n-based-pages/betting-rules/EN/betting-rules-EN.tsx:2976
+#: src/pages/theme1/i18n-based-pages/betting-rules/EN/betting-rules-EN.tsx:3019
+#: src/pages/theme1/i18n-based-pages/betting-rules/EN/betting-rules-EN.tsx:3042
+#: src/pages/theme1/i18n-based-pages/betting-rules/EN/betting-rules-EN.tsx:3081
+#: src/pages/theme1/i18n-based-pages/betting-rules/EN/betting-rules-EN.tsx:3108
+#: src/pages/theme1/i18n-based-pages/betting-rules/EN/betting-rules-EN.tsx:3127
+#: src/pages/theme1/i18n-based-pages/betting-rules/EN/betting-rules-EN.tsx:3158
+#: src/pages/theme1/i18n-based-pages/betting-rules/EN/betting-rules-EN.tsx:3201
+#: src/pages/theme1/i18n-based-pages/betting-rules/EN/betting-rules-EN.tsx:3570
+#: src/pages/theme1/i18n-based-pages/betting-rules/EN/betting-rules-EN.tsx:3613
+#: src/pages/theme1/i18n-based-pages/betting-rules/EN/betting-rules-EN.tsx:3664
+#: src/pages/theme1/i18n-based-pages/betting-rules/EN/betting-rules-EN.tsx:3686
+#: src/pages/theme1/i18n-based-pages/betting-rules/EN/betting-rules-EN.tsx:3807
+#: src/pages/theme1/i18n-based-pages/betting-rules/EN/betting-rules-EN.tsx:3854
+#: src/pages/theme1/i18n-based-pages/betting-rules/EN/betting-rules-EN.tsx:3877
+#: src/pages/theme1/i18n-based-pages/betting-rules/EN/betting-rules-EN.tsx:3900
+#: src/pages/theme1/i18n-based-pages/betting-rules/EN/betting-rules-EN.tsx:3939
+#: src/pages/theme1/i18n-based-pages/betting-rules/EN/betting-rules-EN.tsx:3970
+#: src/pages/theme1/i18n-based-pages/betting-rules/EN/betting-rules-EN.tsx:4001
+#: src/pages/theme1/i18n-based-pages/betting-rules/EN/betting-rules-EN.tsx:4052
+#: src/pages/theme1/i18n-based-pages/betting-rules/EN/betting-rules-EN.tsx:4071
+#: src/pages/theme1/i18n-based-pages/betting-rules/EN/betting-rules-EN.tsx:4109
+#: src/pages/theme1/i18n-based-pages/betting-rules/EN/betting-rules-EN.tsx:4132
+#: src/pages/theme1/i18n-based-pages/betting-rules/EN/betting-rules-EN.tsx:4155
+#: src/pages/theme1/i18n-based-pages/betting-rules/EN/betting-rules-EN.tsx:4181
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES-MX/betting-rules-ES-MX.tsx:1080
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES-MX/betting-rules-ES-MX.tsx:1733
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES-MX/betting-rules-ES-MX.tsx:1921
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES-MX/betting-rules-ES-MX.tsx:202
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES-MX/betting-rules-ES-MX.tsx:2128
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES-MX/betting-rules-ES-MX.tsx:2215
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES-MX/betting-rules-ES-MX.tsx:2282
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES-MX/betting-rules-ES-MX.tsx:23
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES-MX/betting-rules-ES-MX.tsx:2408
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES-MX/betting-rules-ES-MX.tsx:2524
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES-MX/betting-rules-ES-MX.tsx:2728
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES-MX/betting-rules-ES-MX.tsx:2785
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES-MX/betting-rules-ES-MX.tsx:2824
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES-MX/betting-rules-ES-MX.tsx:2848
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES-MX/betting-rules-ES-MX.tsx:2891
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES-MX/betting-rules-ES-MX.tsx:2918
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES-MX/betting-rules-ES-MX.tsx:2961
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES-MX/betting-rules-ES-MX.tsx:2984
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES-MX/betting-rules-ES-MX.tsx:3023
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES-MX/betting-rules-ES-MX.tsx:3050
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES-MX/betting-rules-ES-MX.tsx:3069
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES-MX/betting-rules-ES-MX.tsx:3100
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES-MX/betting-rules-ES-MX.tsx:3143
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES-MX/betting-rules-ES-MX.tsx:3494
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES-MX/betting-rules-ES-MX.tsx:3537
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES-MX/betting-rules-ES-MX.tsx:3588
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES-MX/betting-rules-ES-MX.tsx:3610
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES-MX/betting-rules-ES-MX.tsx:3731
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES-MX/betting-rules-ES-MX.tsx:3778
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES-MX/betting-rules-ES-MX.tsx:3801
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES-MX/betting-rules-ES-MX.tsx:3824
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES-MX/betting-rules-ES-MX.tsx:3863
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES-MX/betting-rules-ES-MX.tsx:3894
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES-MX/betting-rules-ES-MX.tsx:3925
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES-MX/betting-rules-ES-MX.tsx:3976
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES-MX/betting-rules-ES-MX.tsx:3995
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES-MX/betting-rules-ES-MX.tsx:4033
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES-MX/betting-rules-ES-MX.tsx:4056
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES-MX/betting-rules-ES-MX.tsx:4079
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES-MX/betting-rules-ES-MX.tsx:4105
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES/betting-rules-ES.tsx:1302
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES/betting-rules-ES.tsx:214
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES/betting-rules-ES.tsx:2183
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES/betting-rules-ES.tsx:23
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES/betting-rules-ES.tsx:2422
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES/betting-rules-ES.tsx:2721
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES/betting-rules-ES.tsx:2834
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES/betting-rules-ES.tsx:2933
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES/betting-rules-ES.tsx:3122
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES/betting-rules-ES.tsx:3286
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES/betting-rules-ES.tsx:3599
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES/betting-rules-ES.tsx:3690
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES/betting-rules-ES.tsx:3741
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES/betting-rules-ES.tsx:3773
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES/betting-rules-ES.tsx:3836
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES/betting-rules-ES.tsx:3871
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES/betting-rules-ES.tsx:3924
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES/betting-rules-ES.tsx:3953
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES/betting-rules-ES.tsx:4006
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES/betting-rules-ES.tsx:4041
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES/betting-rules-ES.tsx:4061
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES/betting-rules-ES.tsx:4099
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES/betting-rules-ES.tsx:4155
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES/betting-rules-ES.tsx:4581
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES/betting-rules-ES.tsx:4634
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES/betting-rules-ES.tsx:4697
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES/betting-rules-ES.tsx:4723
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES/betting-rules-ES.tsx:4893
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES/betting-rules-ES.tsx:4960
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES/betting-rules-ES.tsx:4991
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES/betting-rules-ES.tsx:5026
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES/betting-rules-ES.tsx:5082
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES/betting-rules-ES.tsx:5129
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES/betting-rules-ES.tsx:5177
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES/betting-rules-ES.tsx:5249
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES/betting-rules-ES.tsx:5273
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES/betting-rules-ES.tsx:5329
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES/betting-rules-ES.tsx:5356
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES/betting-rules-ES.tsx:5382
+#: src/pages/theme1/i18n-based-pages/betting-rules/ES/betting-rules-ES.tsx:5422
+#: src/pages/theme1/i18n-based-pages/betting-rules/FR/betting-rules-FR.tsx:1000
+#: src/pages/theme1/i18n-based-pages/betting-rules/FR/betting-rules-FR.tsx:1192
+#: src/pages/theme1/i18n-based-pages/betting-rules/FR/betting-rules-FR.tsx:1399
+#: src/pages/theme1/i18n-based-pages/betting-rules/FR/betting-rules-FR.tsx:1486
+#: src/pages/theme1/i18n-based-pages/betting-rules/FR/betting-rules-FR.tsx:1553
+#: src/pages/theme1/i18n-based-pages/betting-rules/FR/betting-rules-FR.tsx:1679
+#: src/pages/theme1/i18n-based-pages/betting-rules/FR/betting-rules-FR.tsx:1795
+#: src/pages/theme1/i18n-based-pages/betting-rules/FR/betting-rules-FR.tsx:185
+#: src/pages/theme1/i18n-based-pages/betting-rules/FR/betting-rules-FR.tsx:1998
+#: src/pages/theme1/i18n-based-pages/betting-rules/FR/betting-rules-FR.tsx:2055
+#: src/pages/theme1/i18n-based-pages/betting-rules/FR/betting-rules-FR.tsx:2094
+#: src/pages/theme1/i18n-based-pages/betting-rules/FR/betting-rules-FR.tsx:2118
+#: src/pages/theme1/i18n-based-pages/betting-rules/FR/betting-rules-FR.tsx:2161
+#: src/pages/theme1/i18n-based-pages/betting-rules/FR/betting-rules-FR.tsx:2188
+#: src/pages/theme1/i18n-based-pages/betting-rules/FR/betting-rules-FR.tsx:2231
+#: src/pages/theme1/i18n-based-pages/betting-rules/FR/betting-rules-FR.tsx:2254
+#: src/pages/theme1/i18n-based-pages/betting-rules/FR/betting-rules-FR.tsx:2293
+#: src/pages/theme1/i18n-based-pages/betting-rules/FR/betting-rules-FR.tsx:23
+#: src/pages/theme1/i18n-based-pages/betting-rules/FR/betting-rules-FR.tsx:2320
+#: src/pages/theme1/i18n-based-pages/betting-rules/FR/betting-rules-FR.tsx:2339
+#: src/pages/theme1/i18n-based-pages/betting-rules/FR/betting-rules-FR.tsx:2370
+#: src/pages/theme1/i18n-based-pages/betting-rules/FR/betting-rules-FR.tsx:2413
+#: src/pages/theme1/i18n-based-pages/betting-rules/FR/betting-rules-FR.tsx:2759
+#: src/pages/theme1/i18n-based-pages/betting-rules/FR/betting-rules-FR.tsx:2802
+#: src/pages/theme1/i18n-based-pages/betting-rules/FR/betting-rules-FR.tsx:2853
+#: src/pages/theme1/i18n-based-pages/betting-rules/FR/betting-rules-FR.tsx:2875
+#: src/pages/theme1/i18n-based-pages/betting-rules/FR/betting-rules-FR.tsx:2996
+#: src/pages/theme1/i18n-based-pages/betting-rules/FR/betting-rules-FR.tsx:3043
+#: src/pages/theme1/i18n-based-pages/betting-rules/FR/betting-rules-FR.tsx:3066
+#: src/pages/theme1/i18n-based-pages/betting-rules/FR/betting-rules-FR.tsx:3089
+#: src/pages/theme1/i18n-based-pages/betting-rules/FR/betting-rules-FR.tsx:3128
+#: src/pages/theme1/i18n-based-pages/betting-rules/FR/betting-rules-FR.tsx:3159
+#: src/pages/theme1/i18n-based-pages/betting-rules/FR/betting-rules-FR.tsx:3190
+#: src/pages/theme1/i18n-based-pages/betting-rules/FR/betting-rules-FR.tsx:323
+#: src/pages/theme1/i18n-based-pages/betting-rules/FR/betting-rules-FR.tsx:3241
+#: src/pages/theme1/i18n-based-pages/betting-rules/FR/betting-rules-FR.tsx:3266
+#: src/pages/theme1/i18n-based-pages/betting-rules/IT/betting-rules-IT.tsx:1081
+#: src/pages/theme1/i18n-based-pages/betting-rules/IT/betting-rules-IT.tsx:1767
+#: src/pages/theme1/i18n-based-pages/betting-rules/IT/betting-rules-IT.tsx:1955
+#: src/pages/theme1/i18n-based-pages/betting-rules/IT/betting-rules-IT.tsx:202
+#: src/pages/theme1/i18n-based-pages/betting-rules/IT/betting-rules-IT.tsx:2162
+#: src/pages/theme1/i18n-based-pages/betting-rules/IT/betting-rules-IT.tsx:2249
+#: src/pages/theme1/i18n-based-pages/betting-rules/IT/betting-rules-IT.tsx:23
+#: src/pages/theme1/i18n-based-pages/betting-rules/IT/betting-rules-IT.tsx:2316
+#: src/pages/theme1/i18n-based-pages/betting-rules/IT/betting-rules-IT.tsx:2442
+#: src/pages/theme1/i18n-based-pages/betting-rules/IT/betting-rules-IT.tsx:2558
+#: src/pages/theme1/i18n-based-pages/betting-rules/IT/betting-rules-IT.tsx:2762
+#: src/pages/theme1/i18n-based-pages/betting-rules/IT/betting-rules-IT.tsx:2819
+#: src/pages/theme1/i18n-based-pages/betting-rules/IT/betting-rules-IT.tsx:2858
+#: src/pages/theme1/i18n-based-pages/betting-rules/IT/betting-rules-IT.tsx:2882
+#: src/pages/theme1/i18n-based-pages/betting-rules/IT/betting-rules-IT.tsx:2925
+#: src/pages/theme1/i18n-based-pages/betting-rules/IT/betting-rules-IT.tsx:2952
+#: src/pages/theme1/i18n-based-pages/betting-rules/IT/betting-rules-IT.tsx:2995
+#: src/pages/theme1/i18n-based-pages/betting-rules/IT/betting-rules-IT.tsx:3018
+#: src/pages/theme1/i18n-based-pages/betting-rules/IT/betting-rules-IT.tsx:3057
+#: src/pages/theme1/i18n-based-pages/betting-rules/IT/betting-rules-IT.tsx:3084
+#: src/pages/theme1/i18n-based-pages/betting-rules/IT/betting-rules-IT.tsx:3103
+#: src/pages/theme1/i18n-based-pages/betting-rules/IT/betting-rules-IT.tsx:3134
+#: src/pages/theme1/i18n-based-pages/betting-rules/IT/betting-rules-IT.tsx:3177
+#: src/pages/theme1/i18n-based-pages/betting-rules/IT/betting-rules-IT.tsx:3549
+#: src/pages/theme1/i18n-based-pages/betting-rules/IT/betting-rules-IT.tsx:3592
+#: src/pages/theme1/i18n-based-pages/betting-rules/IT/betting-rules-IT.tsx:3643
+#: src/pages/theme1/i18n-based-pages/betting-rules/IT/betting-rules-IT.tsx:3665
+#: src/pages/theme1/i18n-based-pages/betting-rules/IT/betting-rules-IT.tsx:3786
+#: src/pages/theme1/i18n-based-pages/betting-rules/IT/betting-rules-IT.tsx:3833
+#: src/pages/theme1/i18n-based-pages/betting-rules/IT/betting-rules-IT.tsx:3856
+#: src/pages/theme1/i18n-based-pages/betting-rules/IT/betting-rules-IT.tsx:3879
+#: src/pages/theme1/i18n-based-pages/betting-rules/IT/betting-rules-IT.tsx:3918
+#: src/pages/theme1/i18n-based-pages/betting-rules/IT/betting-rules-IT.tsx:3949
+#: src/pages/theme1/i18n-based-pages/betting-rules/IT/betting-rules-IT.tsx:3980
+#: src/pages/theme1/i18n-based-pages/betting-rules/IT/betting-rules-IT.tsx:4031
+#: src/pages/theme1/i18n-based-pages/betting-rules/IT/betting-rules-IT.tsx:4050
+#: src/pages/theme1/i18n-based-pages/betting-rules/IT/betting-rules-IT.tsx:4088
+#: src/pages/theme1/i18n-based-pages/betting-rules/IT/betting-rules-IT.tsx:4111
+#: src/pages/theme1/i18n-based-pages/betting-rules/IT/betting-rules-IT.tsx:4134
+#: src/pages/theme1/i18n-based-pages/betting-rules/IT/betting-rules-IT.tsx:4160
+#: src/pages/theme1/i18n-based-pages/betting-rules/JA/betting-rules-JA.tsx:1076
+#: src/pages/theme1/i18n-based-pages/betting-rules/JA/betting-rules-JA.tsx:1761
+#: src/pages/theme1/i18n-based-pages/betting-rules/JA/betting-rules-JA.tsx:1949
+#: src/pages/theme1/i18n-based-pages/betting-rules/JA/betting-rules-JA.tsx:203
+#: src/pages/theme1/i18n-based-pages/betting-rules/JA/betting-rules-JA.tsx:2156
+#: src/pages/theme1/i18n-based-pages/betting-rules/JA/betting-rules-JA.tsx:2243
+#: src/pages/theme1/i18n-based-pages/betting-rules/JA/betting-rules-JA.tsx:2310
+#: src/pages/theme1/i18n-based-pages/betting-rules/JA/betting-rules-JA.tsx:24
+#: src/pages/theme1/i18n-based-pages/betting-rules/JA/betting-rules-JA.tsx:2436
+#: src/pages/theme1/i18n-based-pages/betting-rules/JA/betting-rules-JA.tsx:2552
+#: src/pages/theme1/i18n-based-pages/betting-rules/JA/betting-rules-JA.tsx:2756
+#: src/pages/theme1/i18n-based-pages/betting-rules/JA/betting-rules-JA.tsx:2813
+#: src/pages/theme1/i18n-based-pages/betting-rules/JA/betting-rules-JA.tsx:2852
+#: src/pages/theme1/i18n-based-pages/betting-rules/JA/betting-rules-JA.tsx:2876
+#: src/pages/theme1/i18n-based-pages/betting-rules/JA/betting-rules-JA.tsx:2919
+#: src/pages/theme1/i18n-based-pages/betting-rules/JA/betting-rules-JA.tsx:2946
+#: src/pages/theme1/i18n-based-pages/betting-rules/JA/betting-rules-JA.tsx:2989
+#: src/pages/theme1/i18n-based-pages/betting-rules/JA/betting-rules-JA.tsx:3012
+#: src/pages/theme1/i18n-based-pages/betting-rules/JA/betting-rules-JA.tsx:3051
+#: src/pages/theme1/i18n-based-pages/betting-rules/JA/betting-rules-JA.tsx:3078
+#: src/pages/theme1/i18n-based-pages/betting-rules/JA/betting-rules-JA.tsx:3097
+#: src/pages/theme1/i18n-based-pages/betting-rules/JA/betting-rules-JA.tsx:3128
+#: src/pages/theme1/i18n-based-pages/betting-rules/JA/betting-rules-JA.tsx:3171
+#: src/pages/theme1/i18n-based-pages/betting-rules/JA/betting-rules-JA.tsx:3543
+#: src/pages/theme1/i18n-based-pages/betting-rules/JA/betting-rules-JA.tsx:3586
+#: src/pages/theme1/i18n-based-pages/betting-rules/JA/betting-rules-JA.tsx:3637
+#: src/pages/theme1/i18n-based-pages/betting-rules/JA/betting-rules-JA.tsx:3659
+#: src/pages/theme1/i18n-based-pages/betting-rules/JA/betting-rules-JA.tsx:3780
+#: src/pages/theme1/i18n-based-pages/betting-rules/JA/betting-rules-JA.tsx:3827
+#: src/pages/theme1/i18n-based-pages/betting-rules/JA/betting-rules-JA.tsx:3850
+#: src/pages/theme1/i18n-based-pages/betting-rules/JA/betting-rules-JA.tsx:3873
+#: src/pages/theme1/i18n-based-pages/betting-rules/JA/betting-rules-JA.tsx:3912
+#: src/pages/theme1/i18n-based-pages/betting-rules/JA/betting-rules-JA.tsx:3943
+#: src/pages/theme1/i18n-based-pages/betting-rules/JA/betting-rules-JA.tsx:3974
+#: src/pages/theme1/i18n-based-pages/betting-rules/JA/betting-rules-JA.tsx:4025
+#: src/pages/theme1/i18n-based-pages/betting-rules/JA/betting-rules-JA.tsx:4044
+#: src/pages/theme1/i18n-based-pages/betting-rules/JA/betting-rules-JA.tsx:4082
+#: src/pages/theme1/i18n-based-pages/betting-rules/JA/betting-rules-JA.tsx:4105
+#: src/pages/theme1/i18n-based-pages/betting-rules/JA/betting-rules-JA.tsx:4128
+#: src/pages/theme1/i18n-based-pages/betting-rules/JA/betting-rules-JA.tsx:4154
+#: src/pages/theme1/i18n-based-pages/betting-rules/PL/betting-rules-PL.tsx:1079
+#: src/pages/theme1/i18n-based-pages/betting-rules/PL/betting-rules-PL.tsx:1732
+#: src/pages/theme1/i18n-based-pages/betting-rules/PL/betting-rules-PL.tsx:1920
+#: src/pages/theme1/i18n-based-pages/betting-rules/PL/betting-rules-PL.tsx:202
+#: src/pages/theme1/i18n-based-pages/betting-rules/PL/betting-rules-PL.tsx:2127
+#: src/pages/theme1/i18n-based-pages/betting-rules/PL/betting-rules-PL.tsx:2214
+#: src/pages/theme1/i18n-based-pages/betting-rules/PL/betting-rules-PL.tsx:2281
+#: src/pages/theme1/i18n-based-pages/betting-rules/PL/betting-rules-PL.tsx:23
+#: src/pages/theme1/i18n-based-pages/betting-rules/PL/betting-rules-PL.tsx:2407
+#: src/pages/theme1/i18n-based-pages/betting-rules/PL/betting-rules-PL.tsx:2523
+#: src/pages/theme1/i18n-based-pages/betting-rules/PL/betting-rules-PL.tsx:2727
+#: src/pages/theme1/i18n-based-pages/betting-rules/PL/betting-rules-PL.tsx:2784
+#: src/pages/theme1/i18n-based-pages/betting-rules/PL/betting-rules-PL.tsx:2823
+#: src/pages/theme1/i18n-based-pages/betting-rules/PL/betting-rules-PL.tsx:2847
+#: src/pages/theme1/i18n-based-pages/betting-rules/PL/betting-rules-PL.tsx:2890
+#: src/pages/theme1/i18n-based-pages/betting-rules/PL/betting-rules-PL.tsx:2917
+#: src/pages/theme1/i18n-based-pages/betting-rules/PL/betting-rules-PL.tsx:2960
+#: src/pages/theme1/i18n-based-pages/betting-rules/PL/betting-rules-PL.tsx:2983
+#: src/pages/theme1/i18n-based-pages/betting-rules/PL/betting-rules-PL.tsx:3022
+#: src/pages/theme1/i18n-based-pages/betting-rules/PL/betting-rules-PL.tsx:3049
+#: src/pages/theme1/i18n-based-pages/betting-rules/PL/betting-rules-PL.tsx:3068
+#: src/pages/theme1/i18n-based-pages/betting-rules/PL/betting-rules-PL.tsx:3099
+#: src/pages/theme1/i18n-based-pages/betting-rules/PL/betting-rules-PL.tsx:3142
+#: src/pages/theme1/i18n-based-pages/betting-rules/PL/betting-rules-PL.tsx:3493
+#: src/pages/theme1/i18n-based-pages/betting-rules/PL/betting-rules-PL.tsx:3536
+#: src/pages/theme1/i18n-based-pages/betting-rules/PL/betting-rules-PL.tsx:3587
+#: src/pages/theme1/i18n-based-pages/betting-rules/PL/betting-rules-PL.tsx:3609
+#: src/pages/theme1/i18n-based-pages/betting-rules/PL/betting-rules-PL.tsx:3730
+#: src/pages/theme1/i18n-based-pages/betting-rules/PL/betting-rules-PL.tsx:3777
+#: src/pages/theme1/i18n-based-pages/betting-rules/PL/betting-rules-PL.tsx:3800
+#: src/pages/theme1/i18n-based-pages/betting-rules/PL/betting-rules-PL.tsx:3823
+#: src/pages/theme1/i18n-based-pages/betting-rules/PL/betting-rules-PL.tsx:3862
+#: src/pages/theme1/i18n-based-pages/betting-rules/PL/betting-rules-PL.tsx:3893
+#: src/pages/theme1/i18n-based-pages/betting-rules/PL/betting-rules-PL.tsx:3924
+#: src/pages/theme1/i18n-based-pages/betting-rules/PL/betting-rules-PL.tsx:3975
+#: src/pages/theme1/i18n-based-pages/betting-rules/PL/betting-rules-PL.tsx:3994
+#: src/pages/theme1/i18n-based-pages/betting-rules/PL/betting-rules-PL.tsx:4031
+#: src/pages/theme1/i18n-based-pages/betting-rules/PL/betting-rules-PL.tsx:4054
+#: src/pages/theme1/i18n-based-pages/betting-rules/PL/betting-rules-PL.tsx:4077
+#: src/pages/theme1/i18n-based-pages/betting-rules/PL/betting-rules-PL.tsx:4103
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT-BR/betting-rules-PT-BR.tsx:1080
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT-BR/betting-rules-PT-BR.tsx:1729
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT-BR/betting-rules-PT-BR.tsx:1917
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT-BR/betting-rules-PT-BR.tsx:204
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT-BR/betting-rules-PT-BR.tsx:2124
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT-BR/betting-rules-PT-BR.tsx:2207
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT-BR/betting-rules-PT-BR.tsx:2270
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT-BR/betting-rules-PT-BR.tsx:2368
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT-BR/betting-rules-PT-BR.tsx:24
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT-BR/betting-rules-PT-BR.tsx:2464
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT-BR/betting-rules-PT-BR.tsx:2664
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT-BR/betting-rules-PT-BR.tsx:2721
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT-BR/betting-rules-PT-BR.tsx:2760
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT-BR/betting-rules-PT-BR.tsx:2784
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT-BR/betting-rules-PT-BR.tsx:2827
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT-BR/betting-rules-PT-BR.tsx:2854
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT-BR/betting-rules-PT-BR.tsx:2897
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT-BR/betting-rules-PT-BR.tsx:2920
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT-BR/betting-rules-PT-BR.tsx:2959
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT-BR/betting-rules-PT-BR.tsx:2986
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT-BR/betting-rules-PT-BR.tsx:3005
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT-BR/betting-rules-PT-BR.tsx:3036
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT-BR/betting-rules-PT-BR.tsx:3079
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT-BR/betting-rules-PT-BR.tsx:3428
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT-BR/betting-rules-PT-BR.tsx:3471
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT-BR/betting-rules-PT-BR.tsx:3522
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT-BR/betting-rules-PT-BR.tsx:3544
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT-BR/betting-rules-PT-BR.tsx:3665
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT-BR/betting-rules-PT-BR.tsx:3712
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT-BR/betting-rules-PT-BR.tsx:3735
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT-BR/betting-rules-PT-BR.tsx:3758
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT-BR/betting-rules-PT-BR.tsx:3797
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT-BR/betting-rules-PT-BR.tsx:3828
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT-BR/betting-rules-PT-BR.tsx:3859
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT-BR/betting-rules-PT-BR.tsx:3910
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT-BR/betting-rules-PT-BR.tsx:3929
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT-BR/betting-rules-PT-BR.tsx:3967
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT-BR/betting-rules-PT-BR.tsx:3990
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT-BR/betting-rules-PT-BR.tsx:4013
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT-BR/betting-rules-PT-BR.tsx:4039
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT/betting-rules-PT.tsx:1080
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT/betting-rules-PT.tsx:1729
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT/betting-rules-PT.tsx:1917
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT/betting-rules-PT.tsx:204
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT/betting-rules-PT.tsx:2124
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT/betting-rules-PT.tsx:2207
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT/betting-rules-PT.tsx:2270
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT/betting-rules-PT.tsx:2368
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT/betting-rules-PT.tsx:24
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT/betting-rules-PT.tsx:2464
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT/betting-rules-PT.tsx:2664
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT/betting-rules-PT.tsx:2721
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT/betting-rules-PT.tsx:2760
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT/betting-rules-PT.tsx:2784
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT/betting-rules-PT.tsx:2827
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT/betting-rules-PT.tsx:2854
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT/betting-rules-PT.tsx:2897
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT/betting-rules-PT.tsx:2920
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT/betting-rules-PT.tsx:2959
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT/betting-rules-PT.tsx:2986
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT/betting-rules-PT.tsx:3005
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT/betting-rules-PT.tsx:3036
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT/betting-rules-PT.tsx:3079
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT/betting-rules-PT.tsx:3428
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT/betting-rules-PT.tsx:3471
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT/betting-rules-PT.tsx:3522
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT/betting-rules-PT.tsx:3544
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT/betting-rules-PT.tsx:3665
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT/betting-rules-PT.tsx:3712
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT/betting-rules-PT.tsx:3735
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT/betting-rules-PT.tsx:3758
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT/betting-rules-PT.tsx:3797
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT/betting-rules-PT.tsx:3828
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT/betting-rules-PT.tsx:3859
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT/betting-rules-PT.tsx:3910
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT/betting-rules-PT.tsx:3929
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT/betting-rules-PT.tsx:3967
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT/betting-rules-PT.tsx:3990
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT/betting-rules-PT.tsx:4013
+#: src/pages/theme1/i18n-based-pages/betting-rules/PT/betting-rules-PT.tsx:4039
+#: src/pages/theme1/i18n-based-pages/betting-rules/RO/betting-rules-RO.tsx:1198
+#: src/pages/theme1/i18n-based-pages/betting-rules/RO/betting-rules-RO.tsx:1425
+#: src/pages/theme1/i18n-based-pages/betting-rules/RO/betting-rules-RO.tsx:1666
+#: src/pages/theme1/i18n-based-pages/betting-rules/RO/betting-rules-RO.tsx:1772
+#: src/pages/theme1/i18n-based-pages/betting-rules/RO/betting-rules-RO.tsx:1859
+#: src/pages/theme1/i18n-based-pages/betting-rules/RO/betting-rules-RO.tsx:193
+#: src/pages/theme1/i18n-based-pages/betting-rules/RO/betting-rules-RO.tsx:2020
+#: src/pages/theme1/i18n-based-pages/betting-rules/RO/betting-rules-RO.tsx:2158
+#: src/pages/theme1/i18n-based-pages/betting-rules/RO/betting-rules-RO.tsx:23
+#: src/pages/theme1/i18n-based-pages/betting-rules/RO/betting-rules-RO.tsx:2388
+#: src/pages/theme1/i18n-based-pages/betting-rules/RO/betting-rules-RO.tsx:2466
+#: src/pages/theme1/i18n-based-pages/betting-rules/RO/betting-rules-RO.tsx:2516
+#: src/pages/theme1/i18n-based-pages/betting-rules/RO/betting-rules-RO.tsx:2546
+#: src/pages/theme1/i18n-based-pages/betting-rules/RO/betting-rules-RO.tsx:2605
+#: src/pages/theme1/i18n-based-pages/betting-rules/RO/betting-rules-RO.tsx:2640
+#: src/pages/theme1/i18n-based-pages/betting-rules/RO/betting-rules-RO.tsx:2687
+#: src/pages/theme1/i18n-based-pages/betting-rules/RO/betting-rules-RO.tsx:2714
+#: src/pages/theme1/i18n-based-pages/betting-rules/RO/betting-rules-RO.tsx:2760
+#: src/pages/theme1/i18n-based-pages/betting-rules/RO/betting-rules-RO.tsx:2794
+#: src/pages/theme1/i18n-based-pages/betting-rules/RO/betting-rules-RO.tsx:2813
+#: src/pages/theme1/i18n-based-pages/betting-rules/RO/betting-rules-RO.tsx:2849
+#: src/pages/theme1/i18n-based-pages/betting-rules/RO/betting-rules-RO.tsx:2901
+#: src/pages/theme1/i18n-based-pages/betting-rules/RO/betting-rules-RO.tsx:3285
+#: src/pages/theme1/i18n-based-pages/betting-rules/RO/betting-rules-RO.tsx:3336
+#: src/pages/theme1/i18n-based-pages/betting-rules/RO/betting-rules-RO.tsx:3392
+#: src/pages/theme1/i18n-based-pages/betting-rules/RO/betting-rules-RO.tsx:3418
+#: src/pages/theme1/i18n-based-pages/betting-rules/RO/betting-rules-RO.tsx:3481
+#: src/pages/theme1/i18n-based-pages/betting-rules/RO/betting-rules-RO.tsx:3510
+#: src/pages/theme1/i18n-based-pages/betting-rules/RO/betting-rules-RO.tsx:3543
+#: src/pages/theme1/i18n-based-pages/betting-rules/RO/betting-rules-RO.tsx:3594
+#: src/pages/theme1/i18n-based-pages/betting-rules/RO/betting-rules-RO.tsx:3638
+#: src/pages/theme1/i18n-based-pages/betting-rules/RO/betting-rules-RO.tsx:3685
+#: src/pages/theme1/i18n-based-pages/betting-rules/RO/betting-rules-RO.tsx:3750
+#: src/pages/theme1/i18n-based-pages/betting-rules/RO/betting-rules-RO.tsx:3776
+#: src/pages/theme1/i18n-based-pages/betting-rules/RO/betting-rules-RO.tsx:386
+#: src/pages/theme1/i18n-based-pages/betting-rules/RU/betting-rules-RU.tsx:1084
+#: src/pages/theme1/i18n-based-pages/betting-rules/RU/betting-rules-RU.tsx:1765
+#: src/pages/theme1/i18n-based-pages/betting-rules/RU/betting-rules-RU.tsx:1953
+#: src/pages/theme1/i18n-based-pages/betting-rules/RU/betting-rules-RU.tsx:201
+#: src/pages/theme1/i18n-based-pages/betting-rules/RU/betting-rules-RU.tsx:2160
+#: src/pages/theme1/i18n-based-pages/betting-rules/RU/betting-rules-RU.tsx:2247
+#: src/pages/theme1/i18n-based-pages/betting-rules/RU/betting-rules-RU.tsx:23
+#: src/pages/theme1/i18n-based-pages/betting-rules/RU/betting-rules-RU.tsx:2314
+#: src/pages/theme1/i18n-based-pages/betting-rules/RU/betting-rules-RU.tsx:2440
+#: src/pages/theme1/i18n-based-pages/betting-rules/RU/betting-rules-RU.tsx:2556
+#: src/pages/theme1/i18n-based-pages/betting-rules/RU/betting-rules-RU.tsx:2760
+#: src/pages/theme1/i18n-based-pages/betting-rules/RU/betting-rules-RU.tsx:2818
+#: src/pages/theme1/i18n-based-pages/betting-rules/RU/betting-rules-RU.tsx:2857
+#: src/pages/theme1/i18n-based-pages/betting-rules/RU/betting-rules-RU.tsx:2881
+#: src/pages/theme1/i18n-based-pages/betting-rules/RU/betting-rules-RU.tsx:2924
+#: src/pages/theme1/i18n-based-pages/betting-rules/RU/betting-rules-RU.tsx:2951
+#: src/pages/theme1/i18n-based-pages/betting-rules/RU/betting-rules-RU.tsx:2994
+#: src/pages/theme1/i18n-based-pages/betting-rules/RU/betting-rules-RU.tsx:3017
+#: src/pages/theme1/i18n-based-pages/betting-rules/RU/betting-rules-RU.tsx:3056
+#: src/pages/theme1/i18n-based-pages/betting-rules/RU/betting-rules-RU.tsx:3083
+#: src/pages/theme1/i18n-based-pages/betting-rules/RU/betting-rules-RU.tsx:3102
+#: src/pages/theme1/i18n-based-pages/betting-rules/RU/betting-rules-RU.tsx:3133
+#: src/pages/theme1/i18n-based-pages/betting-rules/RU/betting-rules-RU.tsx:3176
+#: src/pages/theme1/i18n-based-pages/betting-rules/RU/betting-rules-RU.tsx:3527
+#: src/pages/theme1/i18n-based-pages/betting-rules/RU/betting-rules-RU.tsx:3570
+#: src/pages/theme1/i18n-based-pages/betting-rules/RU/betting-rules-RU.tsx:3621
+#: src/pages/theme1/i18n-based-pages/betting-rules/RU/betting-rules-RU.tsx:3643
+#: src/pages/theme1/i18n-based-pages/betting-rules/RU/betting-rules-RU.tsx:3757
+#: src/pages/theme1/i18n-based-pages/betting-rules/RU/betting-rules-RU.tsx:3804
+#: src/pages/theme1/i18n-based-pages/betting-rules/RU/betting-rules-RU.tsx:3827
+#: src/pages/theme1/i18n-based-pages/betting-rules/RU/betting-rules-RU.tsx:3850
+#: src/pages/theme1/i18n-based-pages/betting-rules/RU/betting-rules-RU.tsx:3889
+#: src/pages/theme1/i18n-based-pages/betting-rules/RU/betting-rules-RU.tsx:3920
+#: src/pages/theme1/i18n-based-pages/betting-rules/RU/betting-rules-RU.tsx:3951
+#: src/pages/theme1/i18n-based-pages/betting-rules/RU/betting-rules-RU.tsx:4002
+#: src/pages/theme1/i18n-based-pages/betting-rules/RU/betting-rules-RU.tsx:4021
+#: src/pages/theme1/i18n-based-pages/betting-rules/RU/betting-rules-RU.tsx:4060
+#: src/pages/theme1/i18n-based-pages/betting-rules/RU/betting-rules-RU.tsx:4083
+#: src/pages/theme1/i18n-based-pages/betting-rules/RU/betting-rules-RU.tsx:4106
+#: src/pages/theme1/i18n-based-pages/betting-rules/RU/betting-rules-RU.tsx:4130
+#: src/pages/theme1/i18n-based-pages/betting-rules/TR/betting-rules-TR.tsx:1127
+#: src/pages/theme1/i18n-based-pages/betting-rules/TR/betting-rules-TR.tsx:1343
+#: src/pages/theme1/i18n-based-pages/betting-rules/TR/betting-rules-TR.tsx:1550
+#: src/pages/theme1/i18n-based-pages/betting-rules/TR/betting-rules-TR.tsx:1637
+#: src/pages/theme1/i18n-based-pages/betting-rules/TR/betting-rules-TR.tsx:1704
+#: src/pages/theme1/i18n-based-pages/betting-rules/TR/betting-rules-TR.tsx:1806
+#: src/pages/theme1/i18n-based-pages/betting-rules/TR/betting-rules-TR.tsx:185
+#: src/pages/theme1/i18n-based-pages/betting-rules/TR/betting-rules-TR.tsx:1901
+#: src/pages/theme1/i18n-based-pages/betting-rules/TR/betting-rules-TR.tsx:2101
+#: src/pages/theme1/i18n-based-pages/betting-rules/TR/betting-rules-TR.tsx:2158
+#: src/pages/theme1/i18n-based-pages/betting-rules/TR/betting-rules-TR.tsx:2197
+#: src/pages/theme1/i18n-based-pages/betting-rules/TR/betting-rules-TR.tsx:2221
+#: src/pages/theme1/i18n-based-pages/betting-rules/TR/betting-rules-TR.tsx:2264
+#: src/pages/theme1/i18n-based-pages/betting-rules/TR/betting-rules-TR.tsx:2291
+#: src/pages/theme1/i18n-based-pages/betting-rules/TR/betting-rules-TR.tsx:23
+#: src/pages/theme1/i18n-based-pages/betting-rules/TR/betting-rules-TR.tsx:2334
+#: src/pages/theme1/i18n-based-pages/betting-rules/TR/betting-rules-TR.tsx:2357
+#: src/pages/theme1/i18n-based-pages/betting-rules/TR/betting-rules-TR.tsx:2396
+#: src/pages/theme1/i18n-based-pages/betting-rules/TR/betting-rules-TR.tsx:2423
+#: src/pages/theme1/i18n-based-pages/betting-rules/TR/betting-rules-TR.tsx:2442
+#: src/pages/theme1/i18n-based-pages/betting-rules/TR/betting-rules-TR.tsx:2473
+#: src/pages/theme1/i18n-based-pages/betting-rules/TR/betting-rules-TR.tsx:2516
+#: src/pages/theme1/i18n-based-pages/betting-rules/TR/betting-rules-TR.tsx:2867
+#: src/pages/theme1/i18n-based-pages/betting-rules/TR/betting-rules-TR.tsx:2910
+#: src/pages/theme1/i18n-based-pages/betting-rules/TR/betting-rules-TR.tsx:2961
+#: src/pages/theme1/i18n-based-pages/betting-rules/TR/betting-rules-TR.tsx:2983
+#: src/pages/theme1/i18n-based-pages/betting-rules/TR/betting-rules-TR.tsx:3105
+#: src/pages/theme1/i18n-based-pages/betting-rules/TR/betting-rules-TR.tsx:3152
+#: src/pages/theme1/i18n-based-pages/betting-rules/TR/betting-rules-TR.tsx:3175
+#: src/pages/theme1/i18n-based-pages/betting-rules/TR/betting-rules-TR.tsx:3198
+#: src/pages/theme1/i18n-based-pages/betting-rules/TR/betting-rules-TR.tsx:322
+#: src/pages/theme1/i18n-based-pages/betting-rules/TR/betting-rules-TR.tsx:3237
+#: src/pages/theme1/i18n-based-pages/betting-rules/TR/betting-rules-TR.tsx:3268
+#: src/pages/theme1/i18n-based-pages/betting-rules/TR/betting-rules-TR.tsx:3299
+#: src/pages/theme1/i18n-based-pages/betting-rules/TR/betting-rules-TR.tsx:3350
+#: src/pages/theme1/i18n-based-pages/betting-rules/TR/betting-rules-TR.tsx:3374
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/DA/esports-betting-rules-DA.tsx:1016
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/DA/esports-betting-rules-DA.tsx:1035
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/DA/esports-betting-rules-DA.tsx:1055
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/DA/esports-betting-rules-DA.tsx:113
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/DA/esports-betting-rules-DA.tsx:188
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/DA/esports-betting-rules-DA.tsx:228
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/DA/esports-betting-rules-DA.tsx:23
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/DA/esports-betting-rules-DA.tsx:416
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/DA/esports-betting-rules-DA.tsx:570
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/DA/esports-betting-rules-DA.tsx:699
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/DA/esports-betting-rules-DA.tsx:724
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/DA/esports-betting-rules-DA.tsx:758
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/DA/esports-betting-rules-DA.tsx:783
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/DA/esports-betting-rules-DA.tsx:812
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/DA/esports-betting-rules-DA.tsx:837
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/DA/esports-betting-rules-DA.tsx:881
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/DA/esports-betting-rules-DA.tsx:925
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/DA/esports-betting-rules-DA.tsx:962
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/DA/esports-betting-rules-DA.tsx:985
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/DE/esports-betting-rules-DE.tsx:1014
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/DE/esports-betting-rules-DE.tsx:1037
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/DE/esports-betting-rules-DE.tsx:1068
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/DE/esports-betting-rules-DE.tsx:1087
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/DE/esports-betting-rules-DE.tsx:1106
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/DE/esports-betting-rules-DE.tsx:113
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/DE/esports-betting-rules-DE.tsx:23
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/DE/esports-betting-rules-DE.tsx:249
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/DE/esports-betting-rules-DE.tsx:289
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/DE/esports-betting-rules-DE.tsx:477
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/DE/esports-betting-rules-DE.tsx:630
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/DE/esports-betting-rules-DE.tsx:759
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/DE/esports-betting-rules-DE.tsx:784
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/DE/esports-betting-rules-DE.tsx:816
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/DE/esports-betting-rules-DE.tsx:840
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/DE/esports-betting-rules-DE.tsx:868
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/DE/esports-betting-rules-DE.tsx:892
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/DE/esports-betting-rules-DE.tsx:935
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/DE/esports-betting-rules-DE.tsx:978
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/EN/esports-betting-rules-EN.tsx:1033
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/EN/esports-betting-rules-EN.tsx:113
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/EN/esports-betting-rules-EN.tsx:1221
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/EN/esports-betting-rules-EN.tsx:1375
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/EN/esports-betting-rules-EN.tsx:1505
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/EN/esports-betting-rules-EN.tsx:1530
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/EN/esports-betting-rules-EN.tsx:1564
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/EN/esports-betting-rules-EN.tsx:1589
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/EN/esports-betting-rules-EN.tsx:1618
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/EN/esports-betting-rules-EN.tsx:1643
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/EN/esports-betting-rules-EN.tsx:1687
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/EN/esports-betting-rules-EN.tsx:1731
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/EN/esports-betting-rules-EN.tsx:1768
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/EN/esports-betting-rules-EN.tsx:1791
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/EN/esports-betting-rules-EN.tsx:1822
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/EN/esports-betting-rules-EN.tsx:1841
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/EN/esports-betting-rules-EN.tsx:1865
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/EN/esports-betting-rules-EN.tsx:23
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/EN/esports-betting-rules-EN.tsx:992
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/ES-MX/esports-betting-rules-ES-MX.tsx:1032
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/ES-MX/esports-betting-rules-ES-MX.tsx:113
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/ES-MX/esports-betting-rules-ES-MX.tsx:1220
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/ES-MX/esports-betting-rules-ES-MX.tsx:1374
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/ES-MX/esports-betting-rules-ES-MX.tsx:1504
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/ES-MX/esports-betting-rules-ES-MX.tsx:1529
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/ES-MX/esports-betting-rules-ES-MX.tsx:1562
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/ES-MX/esports-betting-rules-ES-MX.tsx:1587
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/ES-MX/esports-betting-rules-ES-MX.tsx:1616
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/ES-MX/esports-betting-rules-ES-MX.tsx:1641
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/ES-MX/esports-betting-rules-ES-MX.tsx:1685
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/ES-MX/esports-betting-rules-ES-MX.tsx:1729
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/ES-MX/esports-betting-rules-ES-MX.tsx:1766
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/ES-MX/esports-betting-rules-ES-MX.tsx:1789
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/ES-MX/esports-betting-rules-ES-MX.tsx:1819
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/ES-MX/esports-betting-rules-ES-MX.tsx:1838
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/ES-MX/esports-betting-rules-ES-MX.tsx:1858
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/ES-MX/esports-betting-rules-ES-MX.tsx:23
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/ES-MX/esports-betting-rules-ES-MX.tsx:991
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/ES/esports-betting-rules-ES.tsx:113
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/ES/esports-betting-rules-ES.tsx:1201
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/ES/esports-betting-rules-ES.tsx:1254
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/ES/esports-betting-rules-ES.tsx:1512
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/ES/esports-betting-rules-ES.tsx:1719
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/ES/esports-betting-rules-ES.tsx:1891
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/ES/esports-betting-rules-ES.tsx:1922
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/ES/esports-betting-rules-ES.tsx:1966
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/ES/esports-betting-rules-ES.tsx:1997
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/ES/esports-betting-rules-ES.tsx:2035
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/ES/esports-betting-rules-ES.tsx:2067
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/ES/esports-betting-rules-ES.tsx:2127
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/ES/esports-betting-rules-ES.tsx:2186
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/ES/esports-betting-rules-ES.tsx:2236
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/ES/esports-betting-rules-ES.tsx:2265
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/ES/esports-betting-rules-ES.tsx:23
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/ES/esports-betting-rules-ES.tsx:2307
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/ES/esports-betting-rules-ES.tsx:2331
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/ES/esports-betting-rules-ES.tsx:2355
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/ET/esports-betting-rules-ET.tsx:1032
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/ET/esports-betting-rules-ET.tsx:113
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/ET/esports-betting-rules-ET.tsx:1221
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/ET/esports-betting-rules-ET.tsx:1375
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/ET/esports-betting-rules-ET.tsx:1484
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/ET/esports-betting-rules-ET.tsx:1509
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/ET/esports-betting-rules-ET.tsx:1543
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/ET/esports-betting-rules-ET.tsx:1575
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/ET/esports-betting-rules-ET.tsx:1604
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/ET/esports-betting-rules-ET.tsx:1629
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/ET/esports-betting-rules-ET.tsx:1673
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/ET/esports-betting-rules-ET.tsx:1717
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/ET/esports-betting-rules-ET.tsx:1754
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/ET/esports-betting-rules-ET.tsx:1777
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/ET/esports-betting-rules-ET.tsx:1808
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/ET/esports-betting-rules-ET.tsx:1827
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/ET/esports-betting-rules-ET.tsx:1847
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/ET/esports-betting-rules-ET.tsx:23
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/ET/esports-betting-rules-ET.tsx:991
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/FI/esports-betting-rules-FI.tsx:1032
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/FI/esports-betting-rules-FI.tsx:113
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/FI/esports-betting-rules-FI.tsx:1220
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/FI/esports-betting-rules-FI.tsx:1374
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/FI/esports-betting-rules-FI.tsx:1504
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/FI/esports-betting-rules-FI.tsx:1529
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/FI/esports-betting-rules-FI.tsx:1563
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/FI/esports-betting-rules-FI.tsx:1588
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/FI/esports-betting-rules-FI.tsx:1617
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/FI/esports-betting-rules-FI.tsx:1642
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/FI/esports-betting-rules-FI.tsx:1686
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/FI/esports-betting-rules-FI.tsx:1730
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/FI/esports-betting-rules-FI.tsx:1767
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/FI/esports-betting-rules-FI.tsx:1790
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/FI/esports-betting-rules-FI.tsx:1821
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/FI/esports-betting-rules-FI.tsx:1840
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/FI/esports-betting-rules-FI.tsx:1860
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/FI/esports-betting-rules-FI.tsx:23
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/FI/esports-betting-rules-FI.tsx:991
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/FR/esports-betting-rules-FR.tsx:1025
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/FR/esports-betting-rules-FR.tsx:1048
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/FR/esports-betting-rules-FR.tsx:1079
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/FR/esports-betting-rules-FR.tsx:1098
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/FR/esports-betting-rules-FR.tsx:1118
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/FR/esports-betting-rules-FR.tsx:113
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/FR/esports-betting-rules-FR.tsx:23
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/FR/esports-betting-rules-FR.tsx:251
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/FR/esports-betting-rules-FR.tsx:292
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/FR/esports-betting-rules-FR.tsx:480
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/FR/esports-betting-rules-FR.tsx:634
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/FR/esports-betting-rules-FR.tsx:762
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/FR/esports-betting-rules-FR.tsx:787
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/FR/esports-betting-rules-FR.tsx:821
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/FR/esports-betting-rules-FR.tsx:846
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/FR/esports-betting-rules-FR.tsx:875
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/FR/esports-betting-rules-FR.tsx:900
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/FR/esports-betting-rules-FR.tsx:944
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/FR/esports-betting-rules-FR.tsx:988
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/IT/esports-betting-rules-IT.tsx:1033
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/IT/esports-betting-rules-IT.tsx:113
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/IT/esports-betting-rules-IT.tsx:1221
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/IT/esports-betting-rules-IT.tsx:1375
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/IT/esports-betting-rules-IT.tsx:1505
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/IT/esports-betting-rules-IT.tsx:1530
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/IT/esports-betting-rules-IT.tsx:1564
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/IT/esports-betting-rules-IT.tsx:1589
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/IT/esports-betting-rules-IT.tsx:1618
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/IT/esports-betting-rules-IT.tsx:1643
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/IT/esports-betting-rules-IT.tsx:1687
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/IT/esports-betting-rules-IT.tsx:1731
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/IT/esports-betting-rules-IT.tsx:1768
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/IT/esports-betting-rules-IT.tsx:1791
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/IT/esports-betting-rules-IT.tsx:1822
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/IT/esports-betting-rules-IT.tsx:1841
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/IT/esports-betting-rules-IT.tsx:1865
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/IT/esports-betting-rules-IT.tsx:23
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/IT/esports-betting-rules-IT.tsx:992
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/JA/esports-betting-rules-JA.tsx:1029
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/JA/esports-betting-rules-JA.tsx:114
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/JA/esports-betting-rules-JA.tsx:1217
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/JA/esports-betting-rules-JA.tsx:1371
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/JA/esports-betting-rules-JA.tsx:1501
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/JA/esports-betting-rules-JA.tsx:1526
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/JA/esports-betting-rules-JA.tsx:1560
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/JA/esports-betting-rules-JA.tsx:1585
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/JA/esports-betting-rules-JA.tsx:1614
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/JA/esports-betting-rules-JA.tsx:1639
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/JA/esports-betting-rules-JA.tsx:1683
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/JA/esports-betting-rules-JA.tsx:1727
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/JA/esports-betting-rules-JA.tsx:1764
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/JA/esports-betting-rules-JA.tsx:1787
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/JA/esports-betting-rules-JA.tsx:1818
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/JA/esports-betting-rules-JA.tsx:1837
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/JA/esports-betting-rules-JA.tsx:1861
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/JA/esports-betting-rules-JA.tsx:24
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/JA/esports-betting-rules-JA.tsx:988
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/KA/esports-betting-rules-KA.tsx:1027
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/KA/esports-betting-rules-KA.tsx:1050
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/KA/esports-betting-rules-KA.tsx:1081
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/KA/esports-betting-rules-KA.tsx:1100
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/KA/esports-betting-rules-KA.tsx:1120
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/KA/esports-betting-rules-KA.tsx:113
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/KA/esports-betting-rules-KA.tsx:23
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/KA/esports-betting-rules-KA.tsx:251
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/KA/esports-betting-rules-KA.tsx:292
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/KA/esports-betting-rules-KA.tsx:480
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/KA/esports-betting-rules-KA.tsx:634
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/KA/esports-betting-rules-KA.tsx:764
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/KA/esports-betting-rules-KA.tsx:789
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/KA/esports-betting-rules-KA.tsx:823
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/KA/esports-betting-rules-KA.tsx:848
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/KA/esports-betting-rules-KA.tsx:877
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/KA/esports-betting-rules-KA.tsx:902
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/KA/esports-betting-rules-KA.tsx:946
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/KA/esports-betting-rules-KA.tsx:990
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/LT/esports-betting-rules-LT.tsx:1032
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/LT/esports-betting-rules-LT.tsx:113
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/LT/esports-betting-rules-LT.tsx:1220
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/LT/esports-betting-rules-LT.tsx:1374
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/LT/esports-betting-rules-LT.tsx:1502
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/LT/esports-betting-rules-LT.tsx:1527
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/LT/esports-betting-rules-LT.tsx:1561
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/LT/esports-betting-rules-LT.tsx:1586
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/LT/esports-betting-rules-LT.tsx:1615
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/LT/esports-betting-rules-LT.tsx:1640
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/LT/esports-betting-rules-LT.tsx:1684
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/LT/esports-betting-rules-LT.tsx:1728
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/LT/esports-betting-rules-LT.tsx:1765
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/LT/esports-betting-rules-LT.tsx:1788
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/LT/esports-betting-rules-LT.tsx:1819
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/LT/esports-betting-rules-LT.tsx:1838
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/LT/esports-betting-rules-LT.tsx:1858
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/LT/esports-betting-rules-LT.tsx:23
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/LT/esports-betting-rules-LT.tsx:991
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/LV/esports-betting-rules-LV.tsx:1023
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/LV/esports-betting-rules-LV.tsx:113
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/LV/esports-betting-rules-LV.tsx:1211
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/LV/esports-betting-rules-LV.tsx:1365
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/LV/esports-betting-rules-LV.tsx:1478
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/LV/esports-betting-rules-LV.tsx:1501
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/LV/esports-betting-rules-LV.tsx:1535
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/LV/esports-betting-rules-LV.tsx:1567
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/LV/esports-betting-rules-LV.tsx:1596
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/LV/esports-betting-rules-LV.tsx:1621
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/LV/esports-betting-rules-LV.tsx:1665
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/LV/esports-betting-rules-LV.tsx:1709
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/LV/esports-betting-rules-LV.tsx:1746
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/LV/esports-betting-rules-LV.tsx:1769
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/LV/esports-betting-rules-LV.tsx:1800
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/LV/esports-betting-rules-LV.tsx:1819
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/LV/esports-betting-rules-LV.tsx:1838
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/LV/esports-betting-rules-LV.tsx:23
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/LV/esports-betting-rules-LV.tsx:982
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/PL/esports-betting-rules-PL.tsx:1032
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/PL/esports-betting-rules-PL.tsx:113
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/PL/esports-betting-rules-PL.tsx:1220
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/PL/esports-betting-rules-PL.tsx:1374
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/PL/esports-betting-rules-PL.tsx:1504
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/PL/esports-betting-rules-PL.tsx:1529
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/PL/esports-betting-rules-PL.tsx:1563
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/PL/esports-betting-rules-PL.tsx:1588
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/PL/esports-betting-rules-PL.tsx:1617
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/PL/esports-betting-rules-PL.tsx:1642
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/PL/esports-betting-rules-PL.tsx:1686
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/PL/esports-betting-rules-PL.tsx:1730
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/PL/esports-betting-rules-PL.tsx:1767
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/PL/esports-betting-rules-PL.tsx:1790
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/PL/esports-betting-rules-PL.tsx:1821
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/PL/esports-betting-rules-PL.tsx:1840
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/PL/esports-betting-rules-PL.tsx:1860
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/PL/esports-betting-rules-PL.tsx:23
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/PL/esports-betting-rules-PL.tsx:991
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/PT-BR/esports-betting-rules-PT-BR.tsx:1026
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/PT-BR/esports-betting-rules-PT-BR.tsx:1049
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/PT-BR/esports-betting-rules-PT-BR.tsx:1080
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/PT-BR/esports-betting-rules-PT-BR.tsx:1099
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/PT-BR/esports-betting-rules-PT-BR.tsx:1119
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/PT-BR/esports-betting-rules-PT-BR.tsx:114
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/PT-BR/esports-betting-rules-PT-BR.tsx:24
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/PT-BR/esports-betting-rules-PT-BR.tsx:250
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/PT-BR/esports-betting-rules-PT-BR.tsx:291
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/PT-BR/esports-betting-rules-PT-BR.tsx:479
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/PT-BR/esports-betting-rules-PT-BR.tsx:633
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/PT-BR/esports-betting-rules-PT-BR.tsx:763
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/PT-BR/esports-betting-rules-PT-BR.tsx:788
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/PT-BR/esports-betting-rules-PT-BR.tsx:822
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/PT-BR/esports-betting-rules-PT-BR.tsx:847
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/PT-BR/esports-betting-rules-PT-BR.tsx:876
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/PT-BR/esports-betting-rules-PT-BR.tsx:901
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/PT-BR/esports-betting-rules-PT-BR.tsx:945
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/PT-BR/esports-betting-rules-PT-BR.tsx:989
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/PT/esports-betting-rules-PT.tsx:1026
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/PT/esports-betting-rules-PT.tsx:1049
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/PT/esports-betting-rules-PT.tsx:1080
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/PT/esports-betting-rules-PT.tsx:1099
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/PT/esports-betting-rules-PT.tsx:1119
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/PT/esports-betting-rules-PT.tsx:114
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/PT/esports-betting-rules-PT.tsx:24
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/PT/esports-betting-rules-PT.tsx:250
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/PT/esports-betting-rules-PT.tsx:291
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/PT/esports-betting-rules-PT.tsx:479
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/PT/esports-betting-rules-PT.tsx:633
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/PT/esports-betting-rules-PT.tsx:763
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/PT/esports-betting-rules-PT.tsx:788
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/PT/esports-betting-rules-PT.tsx:822
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/PT/esports-betting-rules-PT.tsx:847
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/PT/esports-betting-rules-PT.tsx:876
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/PT/esports-betting-rules-PT.tsx:901
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/PT/esports-betting-rules-PT.tsx:945
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/PT/esports-betting-rules-PT.tsx:989
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/RO/esports-betting-rules-RO.tsx:1005
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/RO/esports-betting-rules-RO.tsx:1035
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/RO/esports-betting-rules-RO.tsx:1070
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/RO/esports-betting-rules-RO.tsx:1100
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/RO/esports-betting-rules-RO.tsx:1155
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/RO/esports-betting-rules-RO.tsx:119
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/RO/esports-betting-rules-RO.tsx:1209
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/RO/esports-betting-rules-RO.tsx:1254
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/RO/esports-betting-rules-RO.tsx:1281
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/RO/esports-betting-rules-RO.tsx:1319
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/RO/esports-betting-rules-RO.tsx:1342
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/RO/esports-betting-rules-RO.tsx:1366
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/RO/esports-betting-rules-RO.tsx:24
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/RO/esports-betting-rules-RO.tsx:312
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/RO/esports-betting-rules-RO.tsx:363
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/RO/esports-betting-rules-RO.tsx:596
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/RO/esports-betting-rules-RO.tsx:780
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/RO/esports-betting-rules-RO.tsx:935
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/RO/esports-betting-rules-RO.tsx:964
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/RU/esports-betting-rules-RU.tsx:1018
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/RU/esports-betting-rules-RU.tsx:113
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/RU/esports-betting-rules-RU.tsx:1205
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/RU/esports-betting-rules-RU.tsx:1359
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/RU/esports-betting-rules-RU.tsx:1468
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/RU/esports-betting-rules-RU.tsx:1493
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/RU/esports-betting-rules-RU.tsx:1527
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/RU/esports-betting-rules-RU.tsx:1560
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/RU/esports-betting-rules-RU.tsx:1590
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/RU/esports-betting-rules-RU.tsx:1615
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/RU/esports-betting-rules-RU.tsx:1659
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/RU/esports-betting-rules-RU.tsx:1703
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/RU/esports-betting-rules-RU.tsx:1740
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/RU/esports-betting-rules-RU.tsx:1763
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/RU/esports-betting-rules-RU.tsx:1794
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/RU/esports-betting-rules-RU.tsx:1813
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/RU/esports-betting-rules-RU.tsx:1833
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/RU/esports-betting-rules-RU.tsx:23
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/RU/esports-betting-rules-RU.tsx:977
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/SR/esports-betting-rules-SR.tsx:1026
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/SR/esports-betting-rules-SR.tsx:1049
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/SR/esports-betting-rules-SR.tsx:1080
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/SR/esports-betting-rules-SR.tsx:1099
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/SR/esports-betting-rules-SR.tsx:1119
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/SR/esports-betting-rules-SR.tsx:113
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/SR/esports-betting-rules-SR.tsx:23
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/SR/esports-betting-rules-SR.tsx:250
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/SR/esports-betting-rules-SR.tsx:291
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/SR/esports-betting-rules-SR.tsx:479
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/SR/esports-betting-rules-SR.tsx:633
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/SR/esports-betting-rules-SR.tsx:763
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/SR/esports-betting-rules-SR.tsx:788
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/SR/esports-betting-rules-SR.tsx:822
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/SR/esports-betting-rules-SR.tsx:847
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/SR/esports-betting-rules-SR.tsx:876
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/SR/esports-betting-rules-SR.tsx:901
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/SR/esports-betting-rules-SR.tsx:945
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/SR/esports-betting-rules-SR.tsx:989
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/TR/esports-betting-rules-TR.tsx:1022
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/TR/esports-betting-rules-TR.tsx:1045
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/TR/esports-betting-rules-TR.tsx:1076
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/TR/esports-betting-rules-TR.tsx:1095
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/TR/esports-betting-rules-TR.tsx:1115
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/TR/esports-betting-rules-TR.tsx:112
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/TR/esports-betting-rules-TR.tsx:23
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/TR/esports-betting-rules-TR.tsx:249
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/TR/esports-betting-rules-TR.tsx:289
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/TR/esports-betting-rules-TR.tsx:476
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/TR/esports-betting-rules-TR.tsx:629
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/TR/esports-betting-rules-TR.tsx:759
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/TR/esports-betting-rules-TR.tsx:784
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/TR/esports-betting-rules-TR.tsx:818
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/TR/esports-betting-rules-TR.tsx:843
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/TR/esports-betting-rules-TR.tsx:872
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/TR/esports-betting-rules-TR.tsx:897
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/TR/esports-betting-rules-TR.tsx:941
+#: src/pages/theme1/i18n-based-pages/esports-betting-rules/TR/esports-betting-rules-TR.tsx:985
+#: src/pages/theme1/i18n-based-pages/virtual-esports-betting-rules/EN/virtual-esports-betting-rules-EN.tsx:1147
+#: src/pages/theme1/i18n-based-pages/virtual-esports-betting-rules/EN/virtual-esports-betting-rules-EN.tsx:130
+#: src/pages/theme1/i18n-based-pages/virtual-esports-betting-rules/EN/virtual-esports-betting-rules-EN.tsx:1447
+#: src/pages/theme1/i18n-based-pages/virtual-esports-betting-rules/EN/virtual-esports-betting-rules-EN.tsx:247
+#: src/pages/theme1/i18n-based-pages/virtual-esports-betting-rules/EN/virtual-esports-betting-rules-EN.tsx:404
+#: src/pages/theme1/i18n-based-pages/virtual-esports-betting-rules/EN/virtual-esports-betting-rules-EN.tsx:572
+#: src/pages/theme1/i18n-based-pages/virtual-esports-betting-rules/EN/virtual-esports-betting-rules-EN.tsx:77
+#: src/pages/theme1/i18n-based-pages/virtual-esports-betting-rules/EN/virtual-esports-betting-rules-EN.tsx:775
+#: src/pages/theme1/i18n-based-pages/virtual-esports-betting-rules/EN/virtual-esports-betting-rules-EN.tsx:897
+#: src/pages/theme1/i18n-based-pages/virtual-esports-betting-rules/IT/virtual-esports-betting-rules-IT.tsx:1018
+#: src/pages/theme1/i18n-based-pages/virtual-esports-betting-rules/IT/virtual-esports-betting-rules-IT.tsx:1285
+#: src/pages/theme1/i18n-based-pages/virtual-esports-betting-rules/IT/virtual-esports-betting-rules-IT.tsx:130
+#: src/pages/theme1/i18n-based-pages/virtual-esports-betting-rules/IT/virtual-esports-betting-rules-IT.tsx:237
+#: src/pages/theme1/i18n-based-pages/virtual-esports-betting-rules/IT/virtual-esports-betting-rules-IT.tsx:379
+#: src/pages/theme1/i18n-based-pages/virtual-esports-betting-rules/IT/virtual-esports-betting-rules-IT.tsx:521
+#: src/pages/theme1/i18n-based-pages/virtual-esports-betting-rules/IT/virtual-esports-betting-rules-IT.tsx:700
+#: src/pages/theme1/i18n-based-pages/virtual-esports-betting-rules/IT/virtual-esports-betting-rules-IT.tsx:77
+#: src/pages/theme1/i18n-based-pages/virtual-esports-betting-rules/IT/virtual-esports-betting-rules-IT.tsx:809
+#: src/pages/theme1/i18n-based-pages/virtual-esports-betting-rules/JA/virtual-esports-betting-rules-JA.tsx:1013
+#: src/pages/theme1/i18n-based-pages/virtual-esports-betting-rules/JA/virtual-esports-betting-rules-JA.tsx:128
+#: src/pages/theme1/i18n-based-pages/virtual-esports-betting-rules/JA/virtual-esports-betting-rules-JA.tsx:1280
+#: src/pages/theme1/i18n-based-pages/virtual-esports-betting-rules/JA/virtual-esports-betting-rules-JA.tsx:232
+#: src/pages/theme1/i18n-based-pages/virtual-esports-betting-rules/JA/virtual-esports-betting-rules-JA.tsx:374
+#: src/pages/theme1/i18n-based-pages/virtual-esports-betting-rules/JA/virtual-esports-betting-rules-JA.tsx:516
+#: src/pages/theme1/i18n-based-pages/virtual-esports-betting-rules/JA/virtual-esports-betting-rules-JA.tsx:695
+#: src/pages/theme1/i18n-based-pages/virtual-esports-betting-rules/JA/virtual-esports-betting-rules-JA.tsx:77
+#: src/pages/theme1/i18n-based-pages/virtual-esports-betting-rules/JA/virtual-esports-betting-rules-JA.tsx:804
+#: src/pages/theme1/i18n-based-pages/virtual-esports-betting-rules/PL/virtual-esports-betting-rules-PL.tsx:1014
+#: src/pages/theme1/i18n-based-pages/virtual-esports-betting-rules/PL/virtual-esports-betting-rules-PL.tsx:1281
+#: src/pages/theme1/i18n-based-pages/virtual-esports-betting-rules/PL/virtual-esports-betting-rules-PL.tsx:129
+#: src/pages/theme1/i18n-based-pages/virtual-esports-betting-rules/PL/virtual-esports-betting-rules-PL.tsx:233
+#: src/pages/theme1/i18n-based-pages/virtual-esports-betting-rules/PL/virtual-esports-betting-rules-PL.tsx:375
+#: src/pages/theme1/i18n-based-pages/virtual-esports-betting-rules/PL/virtual-esports-betting-rules-PL.tsx:517
+#: src/pages/theme1/i18n-based-pages/virtual-esports-betting-rules/PL/virtual-esports-betting-rules-PL.tsx:696
+#: src/pages/theme1/i18n-based-pages/virtual-esports-betting-rules/PL/virtual-esports-betting-rules-PL.tsx:77
+#: src/pages/theme1/i18n-based-pages/virtual-esports-betting-rules/PL/virtual-esports-betting-rules-PL.tsx:805
+msgid "page-top"
+msgstr "pagina-in cima"
+
+#: src/components/bet/bet-details.tsx:160
+msgid "Pending"
+msgstr "In attesa"
+
+#: src/pages/theme1/parts/top-menu.tsx:107
+msgid "Please select a sport"
+msgstr "Prego, selezione uno sport"
+
+#: src/components/betting-history/cashout/cashout-loading.tsx:34
+#: src/pages/theme1/dev-page.tsx:902
+msgid "Please wait while your %(value) Cash Out is being processed"
+msgstr "Prego, attendi mentre il tuo Cash Out di %(value) viene processato"
+
+#: src/pages/theme1/parts/live-sports-header.tsx:96
+msgid "Popular"
+msgstr "Popolare"
+
+#: src/components/popular-events/popular-events.tsx:153
+#: src/components/site-links/site-links.tsx:45
+#: src/pages/theme1/parts/live-sports-header.tsx:96
+#: src/pages/theme1/parts/top-menu.tsx:110
+#: src/pages/theme1/parts/top-menu.tsx:116
+#: src/pages/theme1/popular-events-page.tsx:18
+msgid "Popular events"
+msgstr "Eventi popolari"
+
+#: src/pages/theme1/parts/left-side-bar.tsx:61
+#: src/pages/theme1/parts/top-menu.tsx:142
+msgid "Quick Links"
+msgstr "Link Rapidi"
+
+#: src/components/video-tutorial/bet-builder-video-tutorial.tsx:62
+msgid "read the rules"
+msgstr "leggi le regole"
+
+#: src/components/bet/bet-details.tsx:156
+msgid "Rejected"
+msgstr "Rifiutata"
+
+#: src/components/site-links/site-links.tsx:55
+msgid "Results page"
+msgstr "Pagina risultati"
+
+#: src/components/betting-history/api/betting-history/betting-history.utils.ts:42
+#: src/components/betting-history/betting-history-bet.tsx:264
+msgid "Return"
+msgstr "Ritorna"
+
+#: src/components/settings/settings.tsx:234
+msgid "Save settings"
+msgstr "Salva impostazioni"
+
+#: src/components/search/search-modal.tsx:91
+#: src/core/routing/templates/classic/default-template.tsx:34
+#: src/pages/theme1/dev-page.tsx:900
+#: src/pages/theme1/parts/left-side-bar.tsx:41
+#: src/pages/theme1/search-page.tsx:36 src/pages/theme1/search-page.tsx:37
+#: src/pages/theme1/search-page.tsx:38 src/pages/theme1/search-page.tsx:43
+msgid "Search"
+msgstr "Cerca"
+
+#: src/components/coupon-content/coupon-content.tsx:64
+msgid "Selected Leagues"
+msgstr ""
+
+#: src/components/notification/connection-notification.tsx:51
+msgid "Session lost! Please refresh the page"
+msgstr "Sessione persa! Prego, ricarica la pagina"
+
+#: src/components/settings/settings.tsx:154
+#: src/pages/theme1/parts/help-support-links.tsx:61
+#: src/pages/theme1/settings.tsx:21
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: src/components/settings/settings.tsx:84
+msgid "Settings saved successfully!"
+msgstr "Impostazioni salvate con Successo!"
+
+#: src/components/bet/bet-details.tsx:164
+msgid "Settled"
+msgstr "Chiusa"
+
+#: src/components/betting-history/betting-history-status-header.tsx:34
+#: src/components/betting-history/betting-history-status-menu.tsx:50
+msgid "Settled bets"
+msgstr "Scommesse chiuse"
+
+#: src/components/bet/bet-details.tsx:324
+#: src/components/betting-history/betting-history-bet.tsx:160
+#: src/pages/theme1/shared-bet-page.tsx:19
+msgid "Share bet"
+msgstr "Condividi scommessa"
+
+#: src/components/shared-bet/shared-bet.tsx:113
+msgid "Share bet is not available"
+msgstr "Condividi scommessa non è al momento disponbile"
+
+#: src/components/shared-bet/shared-bet-container.tsx:72
+msgid "Shared bet page is not available"
+msgstr "La pagine condividi scommessa non è al momento disponibile"
+
+#: src/components/grouped-match-list/grouped-match-list.tsx:342
+msgid "Show"
+msgstr "Mostra"
+
+#: src/components/match-list/match-list.tsx:124
+msgid "Show more"
+msgstr "Mostra di più"
+
+#: src/components/bet/bet-details.tsx:176
+msgid "Single"
+msgstr "Singola"
+
+#: src/components/site-links/site-links.tsx:14
+msgid "Site Links"
+msgstr "Link del sito"
+
+#: src/components/betting-history/cashout/cashout-fail.tsx:40
+#: src/components/coupon-content/coupon-content.tsx:54
+msgid "Something went wrong."
+msgstr "Qualcosa è andato storto."
+
+#: src/components/notification/connection-notification.tsx:57
+msgid "Something went wrong. Trying to reconnect..."
+msgstr "Qualcosa è andato storto. Tentativo di riconnessione..."
+
+#: src/pages/theme1/parts/top-menu.tsx:95
+msgid "Sports"
+msgstr "Sport"
+
+#: src/pages/theme1/esports-page.tsx:29 src/pages/theme1/home.tsx:57
+msgid "Sports Betting"
+msgstr "Scommesse sport"
+
+#: src/components/countdown/event-item-countdown.tsx:24
+msgid "Starts in %(countdown) min"
+msgstr "Inizia in %(countdown) minuti"
+
+#: src/components/bet/bet-details.tsx:350
+msgid "The bet was cashed out at"
+msgstr "Il Cash Out della scommessa è avvenuto a"
+
+#: src/components/match-details/match-details-delay-info.tsx:38
+msgid ""
+"The informations and scores displayed on site with regards to an event are "
+"to be used as a guide only. In the event of any particular wrong information "
+"or delay, we take no responsibility."
+msgstr ""
+"Le informazioni e i punteggi visualizzati sul sito in merito a un evento "
+"sono da intendersi solo come guida. In caso di particolari informazioni "
+"errate o ritardi, non ci assumiamo alcuna responsabilità."
+
+#: src/components/settings/settings.tsx:104
+msgid ""
+"There was a problem fetching your settings from the server. Please refresh "
+"the page."
+msgstr ""
+"Si è verificato un problema durante il recupero delle impostazioni dal "
+"server. Aggiorna la pagina."
+
+#: src/components/settings/settings.tsx:94
+msgid "There was a problem saving your settings. Please try again."
+msgstr ""
+"Si è verificato un problema durante il salvataggio delle impostazioni. Per "
+"favore riprova."
+
+#: src/components/event-item/match-info-details.tsx:68
+#: src/components/event-item/match-info-v2.tsx:95
+#: src/components/event-slider/event-slider-match-info.tsx:102
+#: src/components/match-details/match-details-header-default.tsx:99
+#: src/components/match-details/match-details-info-highlighted.tsx:115
+msgid "Time Left"
+msgstr "Tempo rimasto"
+
+#: src/core/markets/header.ts:66
+msgid "Time Range"
+msgstr "Intervallo di tempo"
+
+#: src/core/markets/header.ts:64
+msgid "TO"
+msgstr "A"
+
+#: src/components/betting-history/api/betting-history/betting-history.utils.ts:34
+msgid "To return"
+msgstr "Per tornare"
+
+#: src/components/bet/bet-details.tsx:271
+#: src/components/betting-history/betting-history-bet.tsx:250
+msgid "Total odds"
+msgstr "Quota totale"
+
+#: src/components/bet/bet-details.tsx:286
+msgid "Total stake"
+msgstr "Puntata totale"
+
+#: src/components/match-details/match-details-info-highlighted.tsx:100
+msgid "Tournament name"
+msgstr "Nome del Torneo"
+
+#: src/components/search/search.tsx:413
+msgid "Tournaments"
+msgstr "Tornei"
+
+#: src/components/search/search.tsx:348
+msgid "Type at least %(number_of_characters) characters to search"
+msgstr "Scrivi almeno %(number_of_characters) caratteri nelle ricerca"
+
+#: src/components/settings/settings.tsx:181
+msgid "UK"
+msgstr "UK"
+
+#: src/core/converters/odds.ts:130
+msgid "Under"
+msgstr "Under"
+
+#: src/components/grouped-match-list/grouped-match-list.tsx:284
+#: src/components/live-upcoming-tabs/live-upcoming-tabs.tsx:147
+#: src/components/match-list-mixed/grouped-mixed-match-list/grouped-match-list-mixed.tsx:82
+#: src/utils/active-tab.ts:19
+msgid "upcoming"
+msgstr "In arrivo"
+
+#: src/components/settings/settings.tsx:172
+msgid "US"
+msgstr "US"
+
+#: src/components/betting-history/betting-history-bet.tsx:240
+msgid "Used Stake"
+msgstr "Puntata usata"
+
+#: src/components/search/search.tsx:515
+msgid "View More"
+msgstr "Vedi di piú"
+
+#: src/core/markets/header.ts:71
+msgid "Yes"
+msgstr "Sí"
+
+#: src/components/betting-history/betting-history.tsx:41
+msgid "You can place bets from %(homePage)"
+msgstr "Puoi piazzare queste scommesse da %(homePage)"
+
+#: src/components/betting-history/betting-history.tsx:38
+msgid "You do not have any bets in this category."
+msgstr "Non hai nessuna scommessa in questa categoria."
+
+#: src/pages/theme1/bet-details-page.tsx:31
+#: src/pages/theme1/betting-history-page.tsx:24
+#: src/pages/theme1/settings.tsx:37
+msgid "You must be logged in to access this page."
+msgstr "Devi accedere per aver accesso a questa pagina."
+
+#: src/components/match-details/match-details-countdown.tsx:21
+msgid "You will be redirected in: %(redirectTime)"
+msgstr "Sarai reindirizzato in: %(redirectTime)"
+
+#: src/components/betting-history/cashout/cashout-confirm.tsx:69
+msgid "You will Cash Out %(value)"
+msgstr "Il tuo Cash Out sarà %(value)"
+
+#: src/components/betting-history/betting-history-header.tsx:31
+msgid "Your pick"
+msgstr "La tua selezione"
+
+#~ msgid "Hide"
+#~ msgstr "Nascondi"
+
+#~ msgid "HUDstats"
+#~ msgstr "HUDstatistiche"
+
+#~ msgid "ITF Live Score"
+#~ msgstr "ITF Punteggi Live"
+
+#~ msgid "Score"
+#~ msgstr "Punteggio"
+
+#~ msgid "Statistics"
+#~ msgstr "Statistiche"
+
+#~ msgid "Stats"
+#~ msgstr "Statistiche"
+
+#~ msgid "Stream"
+#~ msgstr "Stream"
+
+#~ msgid "Widget"
+#~ msgstr "Widget"
+
+#~ msgid "You need to be logged in to see the content."
+#~ msgstr "Hai bisgono di accedere per vedere questo contenuto."
+
+#~ msgid "View all %(discipline) popular events"
+#~ msgstr "Vedi tutte gli eventi popolari di %(discipline)"

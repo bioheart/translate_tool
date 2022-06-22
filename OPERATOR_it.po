@@ -1,0 +1,185 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#: src/custom-i18n.txt:17
+msgid "/shared-bet"
+msgstr "/scommessa-condivisa"
+
+#: src/custom-i18n.txt:18
+msgid "Accept odds type"
+msgstr "Accetta il tipo di quote"
+
+#: src/custom-i18n.txt:19
+msgid "Best of %(numberOfEventParts)"
+msgstr "Il meglio di %(numberOfEventParts)"
+
+#: src/custom-i18n.txt:3
+msgid "Cancelled"
+msgstr "Cancellato"
+
+#: src/custom-i18n.txt:20
+msgid "Cash Out failed"
+msgstr "Cash Out fallito"
+
+#: src/custom-i18n.txt:21
+msgid "Cash Out successful. %(value)%(currencySymbol) added to your balance"
+msgstr "Cash Out riuscito. %(value)%(currencySymbol) sono aggiunti al tuo bilancio"
+
+#: src/custom-i18n.txt:4
+msgid "Cashed Out"
+msgstr "Incassato"
+
+#: src/custom-i18n.txt:22
+msgid "Click here to watch a video tutorial"
+msgstr "Clicca qui per vedere un video tutorial"
+
+#: src/custom-i18n.txt:23
+msgid "Connection Lost! Please check your internet connection."
+msgstr "Connessione Persa! Per favore controlla la tua connessione Internet."
+
+#: src/custom-i18n.txt:5
+msgid "Favorite Tournaments"
+msgstr "Tornei Preferiti"
+
+#: src/custom-i18n.txt:24
+msgid "Go to settled bets"
+msgstr "Vai alle scommesse chiuse"
+
+#: src/custom-i18n.txt:6
+msgid "Half-lost"
+msgstr "Metà Persa"
+
+#: src/custom-i18n.txt:7
+msgid "Half-won"
+msgstr "Metà Vinta"
+
+#: src/custom-i18n.txt:25
+msgid "Information and scoreboard delays"
+msgstr "Informazioni e ritardi del tabellone"
+
+#: src/custom-i18n.txt:26
+msgid "Left"
+msgstr "Sinistra"
+
+#: src/custom-i18n.txt:2
+msgid "Links"
+msgstr ""
+
+#: src/custom-i18n.txt:27
+msgid "New to BetBuilder? %(videoComponent) or %(readRulesComponent)"
+msgstr "Nuovo al Bet Builder? %(videoComponent) o %(readRulesComponent)"
+
+#: src/custom-i18n.txt:28
+msgid "No disciplines currently available"
+msgstr "Non ci sono discipline disponibili al momento"
+
+#: src/custom-i18n.txt:29
+msgid "No markets currently available."
+msgstr "Non ci sono mercati disponibili al momento."
+
+#: src/custom-i18n.txt:8
+msgid "No tournaments currently available"
+msgstr "Non ci sono tornei disponibili al momento"
+
+#: src/custom-i18n.txt:30
+msgid "Odds format"
+msgstr "Formato quote"
+
+#: src/custom-i18n.txt:31
+msgid "Open bets"
+msgstr "Scommesse aperte"
+
+#: src/custom-i18n.txt:32
+msgid "Page not found"
+msgstr "Pagina non trovata"
+
+#: src/custom-i18n.txt:9
+msgid "Please check your Betting History for your latest bet placed."
+msgstr "Per favore controlla la tua cronologia scommesse per le tue ultime puntate"
+
+#: src/custom-i18n.txt:33
+msgid "Please select a sport"
+msgstr "Per favore seleziona uno sport"
+
+#: src/custom-i18n.txt:10
+msgid "Please wait while your %(value)%(currencySymbol) Cash Out is being processed"
+msgstr "Per favore attendi mentre %(value)%(currencySymbol) Cash Out viene completato"
+
+#: src/custom-i18n.txt:11
+msgid "Please wait while your bet is placed"
+msgstr "Per favore attendi mentre la tua scommessa viene piazzata"
+
+#: src/custom-i18n.txt:12
+msgid "Possible winnings"
+msgstr "Vincite potenziali"
+
+#: src/custom-i18n.txt:1
+msgid "Quick Links"
+msgstr ""
+
+#: src/custom-i18n.txt:34
+msgid "Session lost! Please refresh the page"
+msgstr "Sessione persa! Per favore ricarica la pagina"
+
+#: src/custom-i18n.txt:35
+msgid "Settings saved successfully!"
+msgstr "Impostazioni salvate con successo!"
+
+#: src/custom-i18n.txt:36
+msgid "Shared bet page is not available"
+msgstr "La pagina di condivisione scommessa non è al momento disponibile"
+
+#: src/custom-i18n.txt:37
+msgid "There was a problem fetching your settings from the server. Please refresh the page."
+msgstr "Si è verificato un problema durante il recupero delle impostazioni dal server. Per favore aggiorna la pagina."
+
+#: src/custom-i18n.txt:13
+msgid "To place a bet, please click on any price."
+msgstr "Per piazzare la scommessa, clicca per favore su qualsiasi importo."
+
+#: src/custom-i18n.txt:14
+msgid "To return"
+msgstr "Da ritornare"
+
+#: src/custom-i18n.txt:38
+msgid "Tournament name"
+msgstr "Nome del torneo"
+
+#: src/custom-i18n.txt:49
+msgid "Under"
+msgstr "Meno di"
+
+#: src/custom-i18n.txt:40
+msgid "View all %(discipline) popular events"
+msgstr "Vedi tutti gli eventi popolari di %(discipline)"
+
+#: src/custom-i18n.txt:41
+msgid "You can place bets from %(homePage)"
+msgstr "Puoi piazzare le scommesse da %(homePage)"
+
+#: src/custom-i18n.txt:42
+msgid "You must be logged in to access this page."
+msgstr "Devi accedere al sito per aver accesso a questa pagina"
+
+#: src/custom-i18n.txt:15
+msgid "You must be logged in to place bet!"
+msgstr "Devi accedere per poter piazzare una scommessa!"
+
+#: src/custom-i18n.txt:16
+msgid "You must enter a stake for at least one selection in order to place a bet"
+msgstr "Devi inserire una puntata di almeno una selezione per poter scommettere"
+
+#: src/custom-i18n.txt:43
+msgid "You need to be logged in to see the content."
+msgstr "Hai bisogno di accedere al sito per vedere questo contenuto"

@@ -1,0 +1,69 @@
+gettext('1. %(count) fold');,1. %(count) fold,1. %(count) fold
+gettext('2. %(count) folds');,2. %(count) folds,2. %(count) folds
+gettext('%(count) More Locations+');,%(count) More Locations+,%(count) Più Località+
+gettext('%(count) More Sports+');,%(count) More Sports+,%(count) Più Sport+
+gettext('1. %(count) More Tournaments+');,1. %(count) More Tournaments+,1. %(count) Più Tornei+
+gettext('2. %(count) More Tournaments+');,2. %(count) More Tournaments+,2. %(count) Più Tornei+
+gettext('%(locationName) overview');,%(locationName) overview,%(locationName) Panoramica
+gettext('%(tournamentName) overview');,%(tournamentName) overview,%(tournamentName) Panoramica
+gettext('Accept any');,Accept any,Accetta Tutto
+gettext('Accept lower');,Accept lower,Accetta minore
+gettext('Add picks back to betslip');,Add picks back to betslip,Aggiungi le scelte alla scommessa
+gettext('Adjust stake');,Adjust stake,Aggiusta la puntata
+gettext('All sports');,All sports,Tutti gli sport
+gettext('At least one of your selection has an invalid stake');,At least one of your selection has an invalid stake,Almeno una delle tue selezioni ha una puntata non valida
+gettext('At least one of your selection is invalid');,At least one of your selection is invalid,Almeno una delle tue selezioni non è valida
+gettext('Available free bet');,Available free bet,Freebet disponibile
+gettext('1. Bet');,1. Bet,1. Scommessa
+gettext('2. Bets');,2. Bets,2. Scommesse
+gettext('Bet builder');,Bet builder,Bet builder
+gettext('Bet placement failed');,Bet placement failed,Piazzamento scommessa fallito
+gettext('Bet successfully placed');,Bet successfully placed,Scommessa piazzata con successo
+gettext('Bet with stake %(betAmount)%(currencySymbol) was sent for manual approval');,Bet with stake %(betAmount)%(currencySymbol) was sent for manual approval,Scommessa con importo %(betAmount)%(currencySymbol) è stata inviata per approvazione manuale
+gettext('Cash Out %(value)%(currencySymbol)');,Cash Out %(value)%(currencySymbol),Cash Out %(value)%(currencySymbol)
+gettext('1. Combo - %(count) selection');,1. Combo - %(count) selection,1. Combo - %(count) selezione
+gettext('2. Combo - %(count) selections');,2. Combo - %(count) selections,2. Combo - %(count) selezioni
+gettext('1. Combo - 1 selection');,1. Combo - 1 selection,1. Combo - 1 selezione
+gettext('Confirm Cash Out %(value)%(currencySymbol)');,Confirm Cash Out %(value)%(currencySymbol),Conferma Cash Out %(value)%(currencySymbol)
+gettext('Event name');,Event name,Nome evento
+gettext('Exclude this selection');,Exclude this selection,Escludi questa selezione
+gettext('exp. %(expiryDate)');,exp. %(expiryDate),scade il %(expiryDate)
+gettext('Failed to Cash Out %(value)%(currencySymbol)');,Failed to Cash Out %(value)%(currencySymbol),Cash Out fallito %(value)%(currencySymbol)
+gettext('Fav');,Fav,Fav
+gettext('Go to Bet Details');,Go to Bet Details,Vai ai dettagli delle scommessa
+gettext('Hide selections');,Hide selections,Nascondi selezioni
+gettext('Include this selection');,Include this selection,Includi questa selezione
+gettext('live');,live,Live
+gettext('login');,login,Accedi
+gettext('Place %(maxStake)%(currencySymbol) and sent to approval %(manualBetAmount)%(currencySymbol)');,Place %(maxStake)%(currencySymbol) and sent to approval %(manualBetAmount)%(currencySymbol),Piazza %(maxStake)%(currencySymbol) e invia per approvazione %(manualBetAmount)%(currencySymbol)
+gettext('Place %(maxStake)%(currencySymbol) instead of %(stake)%(currencySymbol)');,Place %(maxStake)%(currencySymbol) instead of %(stake)%(currencySymbol),Piazza %(maxStake)%(currencySymbol) invece di %(stake)%(currencySymbol)
+gettext('Popular Leagues');,Popular Leagues,Leghe popolari
+gettext('register');,register,Registra
+gettext('Send %(stake)%(currencySymbol) for manual approval');,Send %(stake)%(currencySymbol) for manual approval,Invia %(stake)%(currencySymbol) per approvazione manuale
+gettext('Stake cannot exceed %(stake)%(currencySymbol)');,Stake cannot exceed %(stake)%(currencySymbol),La puntata non può eccedere %(stake)%(currencySymbol)
+gettext('Stake must be at least %(stake)%(currencySymbol)');,Stake must be at least %(stake)%(currencySymbol),La puntata deve essere almeno %(stake)%(currencySymbol)
+gettext('Successfully Cashed Out %(value)%(currencySymbol)');,Successfully Cashed Out %(value)%(currencySymbol),Cash Out di %(value)%(currencySymbol) avvenuto con successo
+gettext('The selection is no longer available!');,The selection is no longer available!,La selezione non è più disponibile!
+"gettext('To place a bet, %(register) or %(login) and click on any price.');","To place a bet, %(register) or %(login) and click on any price.","Per piazzare la scommessa, %(register) or %(login) e clicca su qualsiasi importo."
+"gettext('To place a bet, please click on any price.');","To place a bet, please click on any price.","Per piazzare la scommessa,  clicca per favore su qualsiasi importo."
+gettext('To return');,To return,Ritornare
+gettext('Total Odds');,Total Odds,Quote Totali
+gettext('Void');,Void,Annullata
+gettext('Waiting for Cash Out %(value)%(currencySymbol)');,Waiting for Cash Out %(value)%(currencySymbol),Attendendo per il Cash Out %(value)%(currencySymbol)
+gettext('Won');,Won,Vinta
+gettext('You do not have any bets in this category.');,You do not have any bets in this category.,Non hai nessuna scommessa in questa categoria
+gettext('You must enter a stake in order to place a bet');,You must enter a stake in order to place a bet,Devi inserire una puntata per poter piazzare una scommessa
+gettext('You will Cash Out %(value)%(currencySymbol)');,You will Cash Out %(value)%(currencySymbol),Il tuo Cash Out sarà %(value)%(currencySymbol)
+gettext('Your betslip is empty');,Your betslip is empty,La stua schedina è vuota
+gettext('/location');,/location,/località
+gettext('1. %(count) More Location+');,1. %(count) More Location+,1. %(count) Più Località+
+gettext('2. %(count) More Locations+');,2. %(count) More Locations+,2. %(count) Più Località+
+gettext('1. %(step) hour');,1. %(step) hour,1. %(step) ore
+gettext('2. %(step) hours');,2. %(step) hours,2. %(step) ore
+gettext('Event view');,Event view,Vista evento
+gettext('1. hour');,1. hour,1. Ora
+gettext('2. hours');,2. hours,2. Ore
+gettext('Next events');,Next events,Prossimi eventi
+gettext('Please wait while your %(value) Cash Out is being processed');,Please wait while your %(value) Cash Out is being processed,Per favore attendi mentre il tuo Cash Out di %(value) viene processato
+gettext('View More');,View More,Vedi di più
+gettext('Yes');,Yes,Si

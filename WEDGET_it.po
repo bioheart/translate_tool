@@ -1,0 +1,971 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#: src/widgets/betslip/betslip-validation-warning.tsx:64
+msgid "%(clickHere) to adjust your stake"
+msgstr "%(clickHere) cambia importo"
+
+#: src/widgets/betslip/utils/betslip.utils.ts:334
+msgid "%(count) fold"
+msgid_plural "%(count) folds"
+msgstr[0] "%(count) fold"
+msgstr[1] "%(count) folds"
+
+#: src/widgets/menus/sports-menu/event-navigation-menu/event-navigation-menu.tsx:26
+msgid "%(count) More Categories+"
+msgstr "%(count) Più Categorie+"
+
+#: src/widgets/menus/popular-links-menu/popular-links-menu.tsx:83
+msgid "%(count) More Link+"
+msgid_plural "%(count) More Link+"
+msgstr[0] "%(count) Piú Link+"
+msgstr[1] "%(count) Piú Links+"
+
+#: src/widgets/menus/sports-menu/event-navigation-menu/event-navigation-menu.tsx:37
+msgid "%(count) More Locations+"
+msgstr "%(count) Piú Locations+"
+
+#: src/widgets/menus/live-sports-menu/live-sports-menu.tsx:88
+#: src/widgets/menus/sports-menu/event-navigation-menu/event-navigation-menu.tsx:32
+msgid "%(count) More Sports+"
+msgid_plural "%(count) More Sports+"
+msgstr[0] "%(count) Sport+"
+msgstr[1] "%(count) Sports+"
+
+#: src/widgets/menus/favorite-tournaments-menu/favorite-tournaments-menu.component.tsx:80
+#: src/widgets/menus/popular-tournaments-menu/popular-tournaments-menu.tsx:106
+#: src/widgets/menus/sports-menu/event-navigation-menu/event-navigation-menu.tsx:44
+msgid "%(count) More Tournaments+"
+msgid_plural "%(count) More Tournaments+"
+msgstr[0] "%(count) Tournament+"
+msgstr[1] "%(count) Tournaments+"
+
+#: src/widgets/menus/sports-menu/event-navigation-menu/location-overview.tsx:39
+#: src/widgets/menus/sports-menu/event-navigation-menu/location-overview.tsx:40
+msgid "%(locationName) overview"
+msgstr "%(locationName) riassunto"
+
+#: src/widgets/menus/sports-menu/event-navigation-menu/tournament-overview.tsx:42
+#: src/widgets/menus/sports-menu/event-navigation-menu/tournament-overview.tsx:43
+msgid "%(tournamentName) overview"
+msgstr "%(tournamentName) riassunto"
+
+#: src/components/currency/use-money.ts:12
+msgid "%(value) %(currencySymbol)"
+msgstr "%(value) %(currencySymbol)"
+
+#: src/widgets/betslip/betslip-odds-validation-settings.tsx:47
+msgid "Accept any"
+msgstr "Accetta tutto"
+
+#: src/widgets/betslip/betslip-footer.tsx:328
+msgid "Accept changes"
+msgstr "Accetta cambiamenti"
+
+#: src/widgets/betslip/betslip-odds-validation-settings.tsx:55
+msgid "Accept higher"
+msgstr "Accetta la maggiore"
+
+#: src/widgets/betslip/betslip-odds-validation-settings.tsx:63
+msgid "Accept lower"
+msgstr "Accetta la minore"
+
+#: src/widgets/betslip/betslip-odds-validation-settings.tsx:71
+msgid "Accept none"
+msgstr "Rifiuta"
+
+#: src/widgets/cashout/cashout-auto/cashout-auto-with-store.tsx:331
+msgid "Activate rule"
+msgstr ""
+
+#: src/widgets/cashout/cashout-auto/cashout-auto-with-store.tsx:206
+msgid "Active Rule"
+msgstr ""
+
+#: src/widgets/betslip/oddsboost/oddsboost-next-tier-notification.tsx:68
+msgid "Add more selections for an odds boost bonus"
+msgstr "Aggiungi più selezioni per un aumento bonus della quota"
+
+#: src/widgets/betslip/betslip-bet-interrupted.tsx:138
+msgid "Add picks back to betslip"
+msgstr "Aggiungi alla schedina"
+
+#: src/widgets/betslip/oddsboost/oddsboost-stake-notification.tsx:60
+msgid "Adjust stake"
+msgstr "Nustatyti statymo sumą"
+
+#: src/widgets/live-calendar-event-list/live-calendar-event-list-menu-item.tsx:59
+#: src/widgets/live-calendar-event-list/live-calendar/live-calendar.tsx:38
+#: src/widgets/navs/sports-nav/sports-nav.hooks.ts:304
+msgid "All"
+msgstr "Tutto"
+
+#: src/widgets/navs/sports-nav/sports-nav.hooks.ts:303
+msgid "All sports"
+msgstr "Tutti sport"
+
+#: src/widgets/betslip/betslip-footer.tsx:367
+msgid ""
+"All your net winnings are taxed upon their settlement. The tax amount will "
+"be calculated depending on potential winnings on the bet."
+msgstr ""
+"Tutte le tue vincite nette vengono tassate al momento della loro "
+"liquidazione. L'importo dell'imposta verrà calcolato in base alle potenziali "
+"vincite sulla scommessa."
+
+#: src/widgets/betslip/betslip-validation-warning.tsx:88
+msgid "At least one of your selection has an invalid stake"
+msgstr "Selezione invalida"
+
+#: src/widgets/betslip/betslip-group.tsx:188
+msgid "At least one of your selection is invalid"
+msgstr "Selezione invalida"
+
+#: src/widgets/cashout/cashout-bar/cashout-bar.tsx:165
+msgid "Auto cash out"
+msgstr ""
+
+#: src/widgets/betslip/freebet/freebet-options.tsx:39
+msgid "Available free bet"
+msgstr "Free bet disponibile"
+
+#: src/widgets/match-list/match-list-match-info/match-info-details/match-time/match-time.tsx:72
+msgid "Best of %(numberOfEventParts)"
+msgstr "Il meglio di %(numberOfEventParts)"
+
+#: src/widgets/betslip/betslip-footer.tsx:471
+#: src/widgets/betslip/betslip-system.tsx:44
+#: src/widgets/betting-history/betting-history-item/v2/betting-history-item-v2.tsx:189
+msgid "Bet"
+msgid_plural "Bets"
+msgstr[0] "Scommess"
+msgstr[1] "Scommess"
+
+#: src/widgets/betslip/bet-placed-details.tsx:46
+#: src/widgets/betslip/betslip-same-event-selections.tsx:95
+#: src/widgets/betting-history/betting-history-item/v1/betting-history-item-v1-group.tsx:80
+#: src/widgets/betting-history/betting-history-item/v2/betting-history-item-v2-selection-list.tsx:112
+msgid "Bet builder"
+msgstr "Bet Builder"
+
+#: src/widgets/betting-history/betting-history-item/v1/betting-history-item-v1.tsx:198
+#: src/widgets/betting-history/betting-history-item/v2/betting-history-item-v2.tsx:300
+msgid "Bet details"
+msgstr "Dettagli Scommessa"
+
+#: src/widgets/betting-history/betting-history-item/v1/betting-history-item-v1.tsx:177
+msgid "Bet id"
+msgstr "Codice Scommessa"
+
+#: src/widgets/betting-history/betting-history-item/v1/betting-history-item-v1.tsx:163
+msgid "Bet placed"
+msgstr "Scommessa effettuata"
+
+#: src/widgets/betslip/betslip-bet-fail.tsx:126
+#: src/widgets/betslip/betslip-bet-fail.tsx:144
+msgid "Bet placement failed"
+msgstr "Errore Scommessa"
+
+#: src/widgets/betting-history/betting-history-item/v1/betting-history-item-v1.tsx:149
+msgid "Bet status"
+msgstr "Stato Scommessa"
+
+#: src/widgets/betslip/betslip-bet-success.tsx:223
+msgid "Bet successfully placed"
+msgstr "Scommessa Accettata"
+
+#: src/widgets/betting-history/betting-history-item/v1/betting-history-item-v1.tsx:185
+msgid "Bet type"
+msgstr "Tipo Scommessa"
+
+#: src/widgets/betslip/betslip-bet-success.tsx:220
+#: src/widgets/betslip/betslip-mba-bet-status.tsx:99
+msgid "Bet with stake %(betAmount) was sent for manual approval"
+msgstr ""
+"Scommessa con importo %(betAmount) è stata inviata per approvazione manuale"
+
+#: src/widgets/betslip/betslip-bet-interrupted.tsx:124
+#: src/widgets/betslip/betslip-bet-success.tsx:241
+#: src/widgets/betslip/betslip-mba-bet-status.tsx:115
+msgid "Betting History"
+msgstr "Storia Scommesse"
+
+#: src/widgets/cashout/cashout-overlay/cashout-overlay-confirm.tsx:60
+msgid "Cancel Cash Out"
+msgstr "Annulla Cash Out"
+
+#: src/components/icon/bet-status-icon.tsx:66
+msgid "Cancelled"
+msgstr "Annullato"
+
+#: src/widgets/betting-history/betting-history-item/v1/cashout/betting-history-item-v1-cashout-ts.tsx:48
+#: src/widgets/cashout/cashout-overlay/cashout-overlay-confirm.tsx:54
+msgid "Cash Out"
+msgstr "Cash Out"
+
+#: src/widgets/cashout/cashout-button/cashout-button-display/cashout-button-display-sse.tsx:42
+#: src/widgets/cashout/cashout-button/cashout-button-display/cashout-button-display-template.tsx:39
+#: src/widgets/cashout/cashout-button/cashout-button-inline.tsx:30
+msgid "Cash Out %(value)"
+msgstr "Cash Out Cash Out"
+
+#: src/widgets/betting-history/betting-history-item/partial-cashout-history.tsx:107
+#: src/widgets/betting-history/betting-history-item/partial-cashout-history.tsx:143
+msgid "Cash out amount"
+msgstr ""
+
+#: src/widgets/cashout/cashout-overlay/cashout-overlay-fail.tsx:28
+msgid "Cash Out failed"
+msgstr "Cash Out rifuitato"
+
+#: src/widgets/betting-history/betting-history-item/partial-cashout-history.tsx:47
+msgid "Cash out history"
+msgstr ""
+
+#: src/widgets/cashout/cashout-auto/cashout-auto-with-store.tsx:209
+msgid "Cash out if the value reaches %(value)"
+msgstr ""
+
+#: src/widgets/cashout/cashout-overlay/cashout-overlay-success.tsx:49
+msgid "Cash Out successful. %(value) added to your balance"
+msgstr "Cash Out accettato. %(value) aggiunto al saldo"
+
+#: src/widgets/cashout/cashout-button/cashout-button-display/cashout-button-display-sse.tsx:35
+#: src/widgets/cashout/cashout-button/cashout-button-inline.tsx:26
+#: src/widgets/cashout/cashout-partial/cashout-partial-with-store.tsx:215
+msgid "Cash out unavailable"
+msgstr ""
+
+#: src/components/icon/bet-status-icon.tsx:61
+#: src/widgets/betting-history/betting-history-item/v2/betting-history-item-v2.tsx:198
+msgid "Cashed Out"
+msgstr "Cashed Out"
+
+#: src/components/range-picker/rangepicker.tsx:47
+#: src/widgets/betslip/betslip-group-action-bar.tsx:26
+#: src/widgets/betslip/freebet/freebet-bar.tsx:63
+msgid "Clear"
+msgstr "Elimina"
+
+#: src/widgets/betslip/betslip-validation-warning.tsx:70
+msgid "Click here"
+msgstr "Clicca qui"
+
+#: src/components/range-picker/rangepicker.tsx:48
+#: src/widgets/betslip/betslip-bet-fail.tsx:172
+#: src/widgets/betslip/betslip-bet-interrupted.tsx:150
+#: src/widgets/betslip/betslip-bet-success.tsx:267
+#: src/widgets/betslip/betslip-mba-bet-status.tsx:125
+#: src/widgets/betslip/betslip-mba-bet-status.tsx:73
+#: src/widgets/betslip/freebet/freebet-options.tsx:42
+#: src/widgets/betslip/manual-bet-acceptance-menu.tsx:174
+#: src/widgets/cashout/cashout-overlay/cashout-overlay-fail.tsx:42
+#: src/widgets/cashout/cashout-overlay/cashout-overlay-success.tsx:77
+#: src/widgets/shared-bet-button/shared-bet-buttons.tsx:105
+#: src/widgets/shared-bet-button/shared-bet.tsx:43
+msgid "Close"
+msgstr "Chiudi"
+
+#: src/widgets/betslip/utils/betslip.utils.ts:333
+msgid "Combo - %(count) selection"
+msgid_plural "Combo - %(count) selections"
+msgstr[0] "Combo - %(count) selezione"
+msgstr[1] "Combo - %(count) selezioni"
+
+#: src/widgets/betting-history/betting-history-item/v2/betting-history-item-v2.tsx:112
+msgid "Combo - 1 selection"
+msgid_plural "Combo - %(count) selections"
+msgstr[0] "Combo - 1 selezione"
+msgstr[1] "Combo - %(count) selezioni"
+
+#: src/widgets/cashout/cashout-button/cashout-button-inline.tsx:32
+msgid "Confirm Cash Out %(value)"
+msgstr "Conferma Cash Out %(value)"
+
+#: src/widgets/betslip/oddsboost/oddsboost-stake-notification.tsx:66
+msgid "Continue with no bonus"
+msgstr "Continua senza Bonus"
+
+#: src/components/bet/bet-details-header.tsx:32
+#: src/widgets/events-result/match-result-list/match-result-list.tsx:52
+#: src/widgets/live-calendar-event-list/live-calendar-event-list.widget.tsx:79
+msgid "Date"
+msgstr "Data"
+
+#: src/widgets/betting-history/betting-history-item/partial-cashout-history.tsx:67
+msgid "Date/Time"
+msgstr "Data/Time"
+
+#: src/widgets/cashout/cashout-auto/cashout-auto-with-store.tsx:219
+msgid "Delete rule"
+msgstr ""
+
+#: src/components/icon/bet-status-icon.tsx:59
+msgid "Draw"
+msgstr "Pareggio"
+
+#: src/widgets/events-result/match-result-list/match-result-list.tsx:55
+#: src/widgets/live-calendar-event-list/live-calendar-event-list.widget.tsx:82
+msgid "Event"
+msgstr "Evento"
+
+#: src/components/bet/bet-details-header.tsx:31
+msgid "Event name"
+msgstr "Nome Evento"
+
+#: src/widgets/match-list/match-list-header/match-list-head.tsx:37
+msgid "Events"
+msgstr "Eventi"
+
+#: src/widgets/shared-bet-button/shared-bet-buttons.tsx:97
+msgid "Exclude stake info"
+msgstr "Escludi le informazioni della puntata"
+
+#: src/widgets/betslip/betslip-selection.tsx:90
+msgid "Exclude this selection"
+msgstr "Elimina selezione"
+
+#: src/widgets/betslip/oddsboost/oddsboost-bar.tsx:50
+msgid "exp. %(expiryDate)"
+msgstr ""
+
+#: src/widgets/cashout/cashout-button/cashout-button-inline.tsx:38
+msgid "Failed to Cash Out %(value)"
+msgstr "Cash Out fallito %(value)"
+
+#: src/widgets/navs/sports-nav/sports-nav.hooks.ts:319
+msgid "Fav"
+msgstr "Preferiti"
+
+#: src/widgets/navs/sports-nav/sports-nav.hooks.ts:318
+msgid "Favorites"
+msgstr "Preferiti"
+
+#: src/widgets/betting-history/betting-history-item/v2/betting-history-item-v2.tsx:189
+msgid "Free bet"
+msgstr "Freebet"
+
+#: src/widgets/betslip/freebet/freebet-bar.tsx:41
+msgid "Free bet bonus selected"
+msgstr "Bonus Freebet selezionato"
+
+#: src/widgets/betting-history/betting-history-item/v1/betting-history-item-v1.tsx:325
+msgid "FreeBet value"
+msgstr ""
+
+#: src/widgets/betslip/betslip-bet-success.tsx:255
+msgid "Go to Bet Details"
+msgstr "Vedi dettagli scommessa"
+
+#: src/widgets/cashout/cashout-overlay/cashout-overlay-success.tsx:66
+msgid "Go to settled bets"
+msgstr "Vedi scommesse chiuse"
+
+#: src/components/icon/bet-status-icon.tsx:57
+msgid "Half-lost"
+msgstr "Half-lost"
+
+#: src/components/icon/bet-status-icon.tsx:53
+msgid "Half-won"
+msgstr "Half-won"
+
+#: src/widgets/match-list/match-list-match-info/match-info-details/match-info-details.tsx:58
+msgid "Has streaming video!"
+msgstr "Video disponibile!"
+
+#: src/widgets/match-details-slider/match-details-slider-tabs.tsx:107
+msgid "Hide"
+msgstr "Nascondi"
+
+#: src/widgets/betslip/betslip-footer.tsx:559
+msgid "Hide odds settings"
+msgstr "Nascondi impostazioni quote"
+
+#: src/widgets/betslip/betslip-bet-fail.tsx:166
+#: src/widgets/betslip/betslip-bet-interrupted.tsx:144
+#: src/widgets/betslip/betslip-bet-success.tsx:299
+msgid "Hide selections"
+msgstr "Nascondi selezione"
+
+#: src/widgets/match-details-slider/match-details-slider-tabs.tsx:153
+msgid "HUDstats"
+msgstr "HUDstatistiche"
+
+#: src/widgets/betslip/betslip-bet-fail.tsx:148
+#: src/widgets/betslip/betslip-bet-success.tsx:226
+#: src/widgets/betting-history/betting-history-item/v2/betting-history-item-v2.tsx:151
+msgid "Id"
+msgstr "Id"
+
+#: src/widgets/cashout/cashout-auto/cashout-auto-with-store.tsx:265
+msgid "If the value reaches"
+msgstr ""
+
+#: src/widgets/shared-bet-button/shared-bet-buttons.tsx:89
+msgid "Include all bet info"
+msgstr "Includi tutti i dettagli della scommessa"
+
+#: src/widgets/betslip/betslip-selection.tsx:90
+msgid "Include this selection"
+msgstr "Includi selezione"
+
+#: src/widgets/betslip/betslip-bet-success.tsx:279
+msgid "Keep selection(s)"
+msgstr "Mantieni selezione(i)"
+
+#: src/components/tournament-list/tournament-list-item.tsx:124
+#: src/widgets/menus/popular-links-menu/popular-links-menu-item.tsx:102
+#: src/widgets/menus/popular-tournaments-menu/popular-tournaments-menu-item.tsx:124
+msgid "live"
+msgstr "live"
+
+#: src/widgets/match-list/match-list-match-info/match-info-details/match-time/match-time-details.tsx:91
+msgid "Live now"
+msgstr "Live disponibile"
+
+#: src/widgets/match-details-slider/match-details-slider-tabs.tsx:201
+msgid "Live TV"
+msgstr "TV Live"
+
+#: src/widgets/cashout/cashout-partial/cashout-partial-buttons.tsx:48
+#: src/widgets/live-calendar-event-list/live-calendar-event-list.widget.tsx:93
+msgid "Loading..."
+msgstr ""
+
+#: src/widgets/events-result/events-result-dropdown.tsx:79
+msgid "Location"
+msgstr ""
+
+#: src/widgets/betslip/betslip-content.tsx:128
+msgid "login"
+msgstr "entra"
+
+#: src/components/icon/bet-status-icon.tsx:55
+msgid "Lost"
+msgstr "Perso"
+
+#: src/components/bet/bet-details-header.tsx:30
+#: src/widgets/live-calendar-event-list/live-calendar-event-list.widget.tsx:88
+msgid "Market"
+msgstr "Mercato"
+
+#: src/widgets/match-details-slider/match-details-slider-tabs.tsx:177
+#: src/widgets/match-details-slider/match-details-slider-tabs.tsx:236
+msgid "Match Description"
+msgstr "Descrizione incontro"
+
+#: src/widgets/events-result/event-result-list.tsx:289
+msgid "Match results"
+msgstr ""
+
+#: src/widgets/betslip/virtual-keyboard/virtual-keyboard.tsx:148
+msgid "Max"
+msgstr "Massimo"
+
+#: src/widgets/betslip/betslip-content.tsx:204
+msgid "Multi"
+msgstr "Multi"
+
+#: src/widgets/betting-history/betting-history-item/v1/betting-history-item-v1.tsx:42
+msgid "Multiple"
+msgstr "Multipla"
+
+#: src/widgets/navs/sports-nav/sports-nav.hooks.ts:332
+#: src/widgets/navs/sports-nav/sports-nav.hooks.ts:333
+msgid "Next"
+msgstr "Prossimo"
+
+#: src/widgets/live-calendar-event-list/live-calendar-event-list.widget.tsx:97
+msgid "No result"
+msgstr "Nessun risultato"
+
+#: src/widgets/tournaments-by-continent/tournaments-by-continent.tsx:132
+msgid "No tournaments currently available"
+msgstr "Tornei non disponibili"
+
+#: src/components/bet/bet-details-header.tsx:29
+msgid "Odds"
+msgstr "Quote"
+
+#: src/widgets/betslip/betslip-footer.tsx:560
+msgid "Odds Settings"
+msgstr "Impostazioni Quote"
+
+#: src/widgets/betslip/oddsboost/oddsboost-bar.tsx:46
+msgid "OddsBoost"
+msgstr "Moltiplicatore quota"
+
+#: src/widgets/betslip/virtual-keyboard/virtual-keyboard.tsx:228
+msgid "Ok"
+msgstr "Ok"
+
+#: src/components/icon/bet-status-icon.tsx:49
+msgid "Open"
+msgstr "Aperta"
+
+#: src/widgets/betting-history/betting-history-item/partial-cashout-history.tsx:126
+msgid "Original stake"
+msgstr ""
+
+#: src/widgets/cashout/cashout-bar/cashout-bar.tsx:157
+msgid "Partial cash out"
+msgstr ""
+
+#: src/widgets/cashout/cashout-partial/cashout-partial-buttons.tsx:71
+msgid "Partial cash out %(value)"
+msgstr ""
+
+#: src/components/icon/bet-status-icon.tsx:70
+msgid "Pending"
+msgstr "In Attesa"
+
+#: src/widgets/betslip/manual-bet-acceptance-menu.tsx:145
+msgid "Place %(maxStake) and sent to approval %(manualBetAmount)"
+msgstr "Piazza %(maxStake) e invia per approvazione %(manualBetAmount)"
+
+#: src/widgets/betslip/manual-bet-acceptance-menu.tsx:132
+msgid "Place %(maxStake) instead of %(stake)"
+msgstr "Piazza %(maxStake) invece di %(stake)"
+
+#: src/widgets/betslip/oddsboost/oddsboost-next-tier-notification.tsx:89
+msgid ""
+"Place %(minSelectionNumber)+ selections for a %(oddsBoostPercentage)% odds "
+"boost bonus"
+msgstr ""
+"Piazza %(minSelectionNumber)+selezioni per un %(oddsBoostPercentage)% di "
+"bonus multipla"
+
+#: src/widgets/betslip/betslip-footer.tsx:274
+msgid "Place bets"
+msgstr "Piazza scommesse"
+
+#: src/widgets/betslip/betslip-bet-success.tsx:232
+#: src/widgets/betslip/betslip-mba-bet-status.tsx:106
+msgid "Please check your %(bettingHistory) in a few minutes"
+msgstr ""
+"Per favore controlla la tua cronologia %(bettingHistory) nei prossimi minuti"
+
+#: src/widgets/betslip/betslip-bet-interrupted.tsx:115
+msgid "Please check your Betting History for your latest bet placed."
+msgstr "Vedi ultima scommessa nello storico."
+
+#: src/widgets/cashout/cashout-overlay/cashout-overlay-loading.tsx:28
+msgid "Please wait while your %(value) Cash Out is being processed"
+msgstr "Aspetta mentre %(value) Cash Out viene processato"
+
+#: src/widgets/betslip/betslip-bet-loading.tsx:32
+msgid "Please wait while your bet is placed"
+msgstr "Aspetta esecuzione scommessa"
+
+#: src/widgets/betslip/betslip-bet-success.tsx:142
+msgid "Possible winnings"
+msgstr "Vincita possibile"
+
+#: src/widgets/betslip/betslip-content.tsx:127
+msgid "register"
+msgstr "registrati"
+
+#: src/components/icon/bet-status-icon.tsx:68
+msgid "Rejected"
+msgstr "Rifiutata"
+
+#: src/widgets/betting-history/betting-history-item/v1/betting-history-item-v1.tsx:312
+#: src/widgets/betting-history/betting-history-item/v2/betting-history-item-v2.tsx:226
+msgid "Remaining stake"
+msgstr ""
+
+#: src/widgets/betslip/virtual-keyboard/virtual-keyboard.tsx:178
+msgid "Remember"
+msgstr ""
+
+#: src/widgets/betslip/betslip-footer.tsx:459
+msgid "Remove all selections"
+msgstr "Rimuovi tutte le selezioni"
+
+#: src/widgets/betslip/betslip-selection.tsx:125
+#: src/widgets/betslip/betslip-selection.tsx:175
+#: src/widgets/betslip/betslip-selection.tsx:199
+#: src/widgets/betslip/betslip-single-selection.tsx:357
+msgid "Remove this selection"
+msgstr "Rimuovi questa selezione"
+
+#: src/widgets/betslip/virtual-keyboard/virtual-keyboard.tsx:187
+msgid "Reset"
+msgstr ""
+
+#: src/widgets/betting-history/betting-history-item/v1/betting-history-item-v1.tsx:302
+#: src/widgets/betting-history/betting-history-item/v2/betting-history-item-v2.tsx:250
+#: src/widgets/betting-history/betting-history.utils.ts:118
+msgid "Returns"
+msgstr "Ritorna"
+
+#: src/widgets/cashout/cashout-auto/cashout-auto-with-store.tsx:232
+msgid "Rule not set"
+msgstr ""
+
+#: src/widgets/events-result/match-result-list/match-result-list.tsx:61
+#: src/widgets/match-details-slider/match-details-slider-tabs.tsx:119
+#: src/widgets/match-details-slider/match-details-slider-tabs.tsx:165
+#: src/widgets/match-details-slider/match-details-slider-tabs.tsx:224
+msgid "Score"
+msgstr ""
+
+#: src/widgets/events-result/event-result-list.tsx:278
+msgid "Search"
+msgstr "Cerca"
+
+#: src/widgets/betslip/freebet/freebet-bar.tsx:42
+msgid "Select a free bet"
+msgstr "Selezione una Freebet"
+
+#: src/widgets/betslip/manual-bet-acceptance-menu.tsx:169
+msgid "Select and continue"
+msgstr "Seleziona e continua"
+
+#: src/widgets/cashout/cashout-partial/cashout-partial-with-store.tsx:215
+msgid "Select the amount to cashout"
+msgstr ""
+
+#: src/widgets/betslip/manual-bet-acceptance-menu.tsx:157
+msgid "Send %(stake) for manual approval"
+msgstr "Invia %(stake) per approvazione manuale"
+
+#: src/widgets/cashout/cashout-auto/cashout-auto-with-store.tsx:321
+msgid "Setting rule..."
+msgstr ""
+
+#: src/widgets/betslip/betslip-bet-success.tsx:290
+msgid "Share"
+msgstr "Condividi"
+
+#: src/widgets/betting-history/betting-history-item/v1/betting-history-item-v1.tsx:209
+msgid "Share bet"
+msgstr "Condividi scommessa"
+
+#: src/widgets/shared-bet-button/shared-bet.tsx:37
+msgid "Share bet is not available"
+msgstr "Condividi Scommessa non è disponibile"
+
+#: src/widgets/match-details-slider/match-details-slider-tabs.tsx:106
+msgid "Show"
+msgstr "Mostra"
+
+#: src/widgets/menus/favorite-tournaments-menu/favorite-tournaments-menu.component.tsx:79
+#: src/widgets/menus/live-sports-menu/live-sports-menu.tsx:87
+#: src/widgets/menus/popular-links-menu/popular-links-menu.tsx:82
+#: src/widgets/menus/popular-tournaments-menu/popular-tournaments-menu.tsx:105
+#: src/widgets/menus/sports-menu/event-navigation-menu/event-navigation-menu.tsx:206
+msgid "Show less"
+msgstr "Mostra meno"
+
+#: src/widgets/events-result/match-result-list/match-result-list.tsx:84
+#: src/widgets/events-result/tournament-result-list/tournament-result-list.tsx:82
+#: src/widgets/live-calendar-event-list/live-calendar-event-list.widget.tsx:115
+#: src/widgets/match-list/match-list-show-more/match-list-show-more.tsx:39
+msgid "Show more"
+msgstr "Mostra di più"
+
+#: src/widgets/betslip/betslip-bet-fail.tsx:166
+#: src/widgets/betslip/betslip-bet-interrupted.tsx:144
+#: src/widgets/betslip/betslip-bet-success.tsx:299
+msgid "Show selections"
+msgstr "Mostra selezioni"
+
+#: src/widgets/betslip/betslip-content.tsx:196
+#: src/widgets/betslip/utils/betslip.utils.ts:323
+#: src/widgets/betting-history/betting-history-item/v1/betting-history-item-v1.tsx:40
+#: src/widgets/betting-history/betting-history-item/v2/betting-history-item-v2.tsx:108
+msgid "Single"
+msgstr "Singola"
+
+#: src/widgets/betslip/betslip-group.tsx:193
+msgid "Some selections cannot be combined in the same bet."
+msgstr "Alcune selezioni non possono essere combinate nella stessa schedina"
+
+#: src/widgets/cashout/cashout-auto/cashout-auto-with-store.tsx:183
+#: src/widgets/cashout/cashout-partial/cashout-partial-with-store.tsx:166
+msgid "Something went wrong"
+msgstr "Qualcosa è andato storto"
+
+#: src/widgets/betslip/betslip-bet-interrupted.tsx:126
+msgid ""
+"Something went wrong and we currently cannot display the status of your "
+"latest bet."
+msgstr ""
+"Qualcosa è andato storno e non possiamo mostrare lo stato delle vostre "
+"vecchie schedine."
+
+#: src/components/continent-list/continent-list-item.tsx:73
+#: src/widgets/betting-history/detail/betting-history-details-component.tsx:59
+#: src/widgets/betting-history/list/betting-history-list-component.tsx:102
+#: src/widgets/betting-history/shared-bet-display/shared-bet-display.tsx:81
+#: src/widgets/cashout/cashout-overlay/cashout-overlay-fail.tsx:16
+#: src/widgets/menus/popular-tournaments-menu/popular-tournaments-menu.tsx:96
+#: src/widgets/tournaments-by-continent/tournaments-by-continent.tsx:119
+msgid "Something went wrong."
+msgstr "Qualcosa è andato storto."
+
+#: src/widgets/events-result/events-result-dropdown.tsx:75
+msgid "Sport"
+msgstr ""
+
+#: src/widgets/betslip/stake/stake-input.tsx:109
+msgid "Stake"
+msgstr "Puntata"
+
+#: src/widgets/betslip/betslip-validation-warning.tsx:54
+msgid "Stake cannot exceed %(stake)"
+msgstr "La puntata non può eccedere %(stake)"
+
+#: src/widgets/betslip/betslip-validation-warning.tsx:50
+msgid "Stake must be at least %(stake)"
+msgstr "La puntata deve essere almeno %(stake)"
+
+#: src/widgets/betslip/betslip-group-single.tsx:194
+#: src/widgets/betslip/betslip-group-system.tsx:65
+msgid "Stake per bet"
+msgstr "Puntata per schedina "
+
+#: src/widgets/betslip/betslip-bet-fail.tsx:93
+#: src/widgets/betslip/betslip-bet-success.tsx:128
+#: src/widgets/betslip/betslip-footer.tsx:340
+#: src/widgets/betting-history/betting-history-item/v1/betting-history-item-v1.tsx:340
+msgid "Stake tax"
+msgstr ""
+
+#: src/widgets/betting-history/betting-history-item/partial-cashout-history.tsx:93
+msgid "Stake used"
+msgstr "Puntata usata"
+
+#: src/components/match-item-countdown/match-item-countdown.tsx:30
+msgid "Starts in %(countdown) sec"
+msgstr "Inizia in %(countdown) minuti"
+
+#: src/widgets/match-details-slider/match-details-slider-tabs.tsx:189
+msgid "Statistics"
+msgstr "Statistiche"
+
+#: src/widgets/match-details-slider/match-details-slider-tabs.tsx:127
+msgid "Stats"
+msgstr "Statistiche"
+
+#: src/widgets/match-details-slider/match-details-slider-tabs.tsx:135
+msgid "Stream"
+msgstr ""
+
+#: src/widgets/cashout/cashout-partial/cashout-partial-buttons.tsx:37
+msgid "Success"
+msgstr "Successo"
+
+#: src/widgets/cashout/cashout-button/cashout-button-inline.tsx:36
+msgid "Successfully Cashed Out %(value)"
+msgstr "Cash Out di %(value) avvenuto con successo"
+
+#: src/widgets/betslip/betslip-content.tsx:212
+#: src/widgets/betslip/utils/betslip.utils.ts:336
+msgid "System"
+msgstr "Sistema"
+
+#: src/widgets/betting-history/betting-history-item/v2/betting-history-item-v2.tsx:217
+msgid "Tax"
+msgstr "Tasse"
+
+#: src/widgets/betting-history/betting-history-item/v1/betting-history-item-v1-group.tsx:127
+msgid "Teams"
+msgstr "Squadre"
+
+#: src/widgets/betslip/betslip-footer.tsx:575
+msgid "The line, odds or availablity of your selections had changed"
+msgstr "La linea, la quota o la disponibilità della selezioni sono cambiate"
+
+#: src/widgets/cashout/cashout-auto/cashout-auto-with-store.tsx:106
+#: src/widgets/cashout/cashout-partial/cashout-partial-with-store.tsx:92
+msgid "The maximum value is %(value)."
+msgstr ""
+
+#: src/widgets/cashout/cashout-auto/cashout-auto-with-store.tsx:101
+#: src/widgets/cashout/cashout-partial/cashout-partial-with-store.tsx:88
+msgid "The minimum value is %(value)."
+msgstr ""
+
+#: src/widgets/betslip/betslip-selection-blocking-notification.tsx:33
+msgid "The selection is no longer available!"
+msgstr "Selezione non piú disponibile!"
+
+#: src/widgets/events-result/match-result-list/match-result-list.tsx:42
+#: src/widgets/events-result/tournament-result-list/tournament-result-list.tsx:56
+msgid "There are no results available."
+msgstr ""
+
+#: src/widgets/cashout/cashout-auto/cashout-auto-with-store.tsx:235
+msgid "There was a error processing your cash out"
+msgstr ""
+
+#: src/components/match-scoreboard/match-scoreboard-match-time.tsx:45
+#: src/widgets/match-list/match-list-match-info/match-info-details/match-info-details.tsx:85
+msgid "Time Left"
+msgstr "Tempo rimanente"
+
+#: src/widgets/betslip/betslip-content.tsx:136
+msgid "To place a bet, %(register) or %(login) and click on any price."
+msgstr "Per scommettere, %(register) o %(login) e clicca su una cifra."
+
+#: src/widgets/betslip/betslip-content.tsx:134
+msgid "To place a bet, please click on any price."
+msgstr "Seleziona una cifra per scommettere."
+
+#: src/widgets/betting-history/betting-history-item/v1/betting-history-item-v1.tsx:290
+#: src/widgets/betting-history/betting-history-item/v2/betting-history-item-v2.tsx:237
+#: src/widgets/betting-history/betting-history.utils.ts:115
+msgid "To return"
+msgstr "Torna"
+
+#: src/widgets/betslip/betslip-footer.tsx:285
+msgid "To return %(toReturnValue)"
+msgstr "Da ritornare %(toReturnValue)"
+
+#: src/widgets/betslip/betslip-selection-details.tsx:130
+msgid "To win"
+msgstr "Per vincere"
+
+#: src/common/date/date-formatter.tsx:58
+#: src/components/range-picker/rangepicker.tsx:46
+msgid "Today"
+msgstr "Oggi"
+
+#: src/common/date/date-formatter.tsx:62
+msgid "Tomorrow"
+msgstr "Domani"
+
+#: src/widgets/betting-history/betting-history-item/v1/betting-history-item-v1.tsx:258
+msgid "Total odds"
+msgstr "Totale Scommessa"
+
+#: src/widgets/betslip/betslip-footer.tsx:526
+#: src/widgets/betting-history/betting-history-item/v2/betting-history-item-v2.tsx:208
+msgid "Total Odds"
+msgstr "Totale Scommessa"
+
+#: src/widgets/betslip/betslip-bet-fail.tsx:100
+#: src/widgets/betslip/betslip-bet-success.tsx:135
+#: src/widgets/betslip/betslip-group-multi.tsx:74
+#: src/widgets/betslip/betslip-group-system.tsx:64
+msgid "Total stake"
+msgstr "Totale importo"
+
+#: src/widgets/events-result/events-result-dropdown.tsx:77
+#: src/widgets/events-result/match-result-list/match-result-list.tsx:58
+#: src/widgets/live-calendar-event-list/live-calendar-event-list.widget.tsx:85
+msgid "Tournament"
+msgstr ""
+
+#: src/widgets/events-result/event-result-list.tsx:312
+msgid "Tournament results"
+msgstr ""
+
+#: src/widgets/cashout/cashout-auto/cashout-auto-with-store.tsx:243
+#: src/widgets/cashout/cashout-partial/cashout-partial-buttons.tsx:59
+msgid "Try again"
+msgstr ""
+
+#: src/widgets/betting-history/betting-history-item/v1/betting-history-item-v1.tsx:326
+msgid "Used Stake"
+msgstr "Used Stake"
+
+#: src/widgets/match-details-slider/match-details-slider-tabs.tsx:213
+msgid "Visualization"
+msgstr "Visualizzazione"
+
+#: src/components/icon/bet-status-icon.tsx:63
+msgid "Void"
+msgstr "Annulla"
+
+#: src/widgets/cashout/cashout-button/cashout-button-inline.tsx:34
+msgid "Waiting for Cash Out %(value)"
+msgstr "Attendendo per il Cash Out %(value)"
+
+#: src/widgets/match-details-slider/match-details-slider-tabs.tsx:143
+msgid "Widget"
+msgstr "Widget"
+
+#: src/widgets/betslip/betslip-footer.tsx:360
+#: src/widgets/betting-history/betting-history-item/v1/betting-history-item-v1.tsx:350
+msgid "Win tax"
+msgstr ""
+
+#: src/widgets/events-result/tournament-result-list/tournament-result-list-item.tsx:112
+msgid "Winner"
+msgstr ""
+
+#: src/components/icon/bet-status-icon.tsx:51
+msgid "Won"
+msgstr "Vinto"
+
+#: src/widgets/betting-history/list/betting-history-list-component.tsx:117
+msgid "You do not have any bets in this category."
+msgstr "Nessuna scommessa in questa categoria."
+
+#: src/widgets/betting-history/detail/betting-history-details.tsx:30
+#: src/widgets/betting-history/list/betting-history-list.tsx:37
+msgid "You must be logged in to access this page."
+msgstr "Entra nel conto per vedere contenuto."
+
+#: src/widgets/betslip/betslip-footer.tsx:150
+msgid "You must be logged in to place bet!"
+msgstr "Entra nel conto per scommettere!"
+
+#: src/widgets/betslip/betslip-submit-bet-notification.tsx:33
+msgid ""
+"You must enter a stake for at least one selection in order to place a bet"
+msgstr "Inserisci un importo per scommettere"
+
+#: src/widgets/betslip/betslip-submit-bet-notification.tsx:34
+msgid "You must enter a stake in order to place a bet"
+msgstr "Inserisci un importo per scommettere"
+
+#: src/components/video-stream/video-stream.tsx:42
+msgid "You need to be logged in to see the content."
+msgstr "Hai bisgono di accedere per vedere questo contenuto."
+
+#: src/widgets/cashout/cashout-overlay/cashout-overlay-confirm.tsx:43
+msgid "You will Cash Out %(value)"
+msgstr "Cash out %(value)"
+
+#: src/widgets/betslip/manual-bet-acceptance-menu.tsx:123
+msgid "Your bet exceeds our limits"
+msgstr "La tua bet eccede i nostri limiti"
+
+#: src/widgets/betslip/betslip-content.tsx:132
+msgid "Your betslip is empty"
+msgstr "Schedina vuota"
+
+#: src/components/bet/bet-details-header.tsx:28
+msgid "Your pick"
+msgstr "Scelta"
+
+#: src/widgets/betslip/oddsboost/oddsboost-stake-notification.tsx:56
+msgid "Your stake does not meet our OddsBoost bonus requirements."
+msgstr "La tua puntata non soddisfa i requisiti per il Bonus Multipla"
+
+#~ msgid "outrights"
+#~ msgstr "Outrights"
+
+#~ msgid "upcoming"
+#~ msgstr "In arrivo"
+
+#~ msgid "Set as default stake"
+#~ msgstr "Imposta come puntata di base"
+
+#~ msgid "Cashed out"
+#~ msgstr "Cashed Out"
